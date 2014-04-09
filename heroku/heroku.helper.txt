@@ -1,0 +1,68 @@
+
+
+Tuto play but outdated (play 1.x)
+https://devcenter.heroku.com/articles/getting-started-with-play#test-locally
+Play infos ok
+https://devcenter.heroku.com/articles/play-support#play-2-2
+http://www.playframework.com/documentation/2.2.x/Production
+
+app url
+-------
+http://desolate-brook-9012.herokuapp.com/
+
+database config
+---------------
+
+mysql://<username>:<pwd>@us-cdbr-east-04.cleardb.com/heroku_blablabla
+
+Heroku commands to set up env var with user/pwd
+$ heroku config:set PPRB_DB_USER=<username>
+$ heroku config:set PPRB_DB_PWD=<pwd>
+
+mysql tools config
+------------------
+http://stackoverflow.com/questions/9822313/remote-connect-to-cleardb-heroku-database
+to configure mysql tools to reach prod database
+
+commands
+--------
+
+$ heroku create
+crée une nouvelle app
+
+
+$ heroku ps
+liste les dyno installées et donne leur statut :
+
+
+marco@debianmarco:~/dev/poc-play-rest-backend$ heroku ps
+=== web (1X): `target/start -Dhttp.port=${PORT} ${JAVA_OPTS} -DapplyEvolutions.default=true -Ddb.default.driver=com.mysql.jdbc.Driver -Ddb.default.url=${CLEARDB_DATABASE_URL}`
+web.1: crashed 2014/01/10 13:57:53 (~ 8m ago)
+
+
+$ git push heroku master
+déploie le code de la branche courante sur heroku. Heroku build l'app sur cette base.
+
+
+$ heroku ps:scale web=1
+pour setter une seule dyno (gratuit)
+
+$ heroku logs > logs/heroku.log
+from the project root dir to get logs from heroku in your play logs dir
+
+common errors
+-------------
+* heroku bash: target/start: No such file or directory
+
+http://stackoverflow.com/questions/19085213/scala-play-2-2-application-crashes-after-deploying-in-heroku-target-start-no-su
+https://discussion.heroku.com/t/bash-target-start-no-such-file-or-directory-error-after-upgrading-to-play-2-2/163
+
+* heroku <any_command> returns '! App not found' after renaming an app in dashboard
+
+http://stackoverflow.com/questions/7615807/renamed-heroku-app-from-website-now-its-not-found
+Need to update the remote entry in project/.git/config file with the new name !!
+
+
+
+
+

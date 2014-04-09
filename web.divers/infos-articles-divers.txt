@@ -1,0 +1,22 @@
+
+comparatif des frameworks / lib dispo pour Js
+=============================================
+
+http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/
+http://www.thecodingmachine.com/sites/default/files/framework_javascript.pdf
+
+http://www.quora.com/JavaScript-Frameworks/What-are-the-advantages-of-using-AngularJS-compared-to-BackboneJS-and-EmberJS
+
+https://plus.google.com/+IgorMinar/posts/DRUAkZmXjNV
+
+Angular 2.0 - contenu ?
+=======================
+http://www.infoq.com/fr/news/2013/07/angularjs-1-2-et-2-0
+
+
+evergreen browsers
+==================
+http://tomdale.net/2013/05/evergreen-browsers/
+
+
+

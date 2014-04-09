@@ -1,0 +1,15 @@
+
+ng-grid site doc :
+ui-grid.info
+
+
+select directive in a cell :
+http://plnkr.co/edit/VABAEu?p=preview
+related to : http://technpol.wordpress.com/2013/12/06/editable-nggrid-with-both-dropdowns-and-selects/
+
+typehead directive in a cell :
+https://github.com/angular-ui/ng-grid/issues/435
+
+http://plnkr.co/edit/cum0CBuoJUvGIBu85aBS?p=preview
+
+

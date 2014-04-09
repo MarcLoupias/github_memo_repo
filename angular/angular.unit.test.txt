@@ -1,0 +1,10 @@
+
+tests avec $http
+----------------
+http://blog.occitech.fr/2013/10/les-tests-angularjs-le-guide-de-a-a-z-partie-1-les-tests-unitaires/
+
+tests de services
+-----------------
+http://stackoverflow.com/questions/13013772/how-do-i-test-an-angularjs-service-with-jasmine
+
+

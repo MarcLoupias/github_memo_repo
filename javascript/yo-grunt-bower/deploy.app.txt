@@ -1,0 +1,13 @@
+
+
+Issue with imagemin
+https://github.com/gruntjs/grunt-contrib-imagemin/issues/69
+
+
+creating a web.js nodeserver:
+http://www.lars-schenk.com/deploying-a-yeoman-angular-app-to-heroku/1661
+https://devcenter.heroku.com/articles/getting-started-with-nodejs#visit-your-application
+
+
+
+http://stackoverflow.com/questions/16674202/how-do-i-deploy-an-angular-js-app

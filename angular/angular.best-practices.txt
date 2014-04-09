@@ -1,0 +1,15 @@
+
+
+https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html#controllersand
+https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html
+
+
+
+https://github.com/angular/angular.js/wiki/Best-Practices
+
+
+best scaffolding practices for generator-angular discussed here:
+https://github.com/yeoman/generator-angular/issues/109
+related to
+https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
+

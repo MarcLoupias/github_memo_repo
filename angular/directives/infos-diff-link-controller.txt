@@ -1,0 +1,1 @@
+http://jasonmore.net/angular-js-directives-difference-controller-link/
