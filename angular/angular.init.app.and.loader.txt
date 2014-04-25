@@ -1,9 +1,9 @@
-
 check this :
 http://stackoverflow.com/questions/14968690/sending-event-when-angular-js-finished-loading
 
 
-Bootstrap d'une app web :
+Bootstrap d'une app web
+=======================
 
 1- Le browser lève l'event DOMContentLoaded durant ce step.
 Le moment exact est aléatoire, il n'attend pas le chargement des ressources liées à la page.
@@ -19,3 +19,15 @@ config() puis run() puis controller() du module principal définit dans ng-app
 Check :
 https://docs.angularjs.org/api/ngRoute/directive/ngView
 https://docs.angularjs.org/api/ng/service/$location
+
+
+knowing when the a view has finished loading
+============================================
+
+not possible because of MVVM pattern 
+http://stackoverflow.com/questions/14368097/execute-function-after-page-has-finished-downloading-and-bootstrapping
+
+others topics
+-------------
+https://github.com/angular/angular.js/issues/1306#issuecomment-8200414
+http://stackoverflow.com/questions/11125078/is-there-a-post-render-callback-for-angular-js-directive
