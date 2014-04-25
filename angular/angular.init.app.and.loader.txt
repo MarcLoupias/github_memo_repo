@@ -1,6 +1,21 @@
 
-
 check this :
 http://stackoverflow.com/questions/14968690/sending-event-when-angular-js-finished-loading
 
 
+Bootstrap d'une app web :
+
+1- Le browser lève l'event DOMContentLoaded durant ce step.
+Le moment exact est aléatoire, il n'attend pas le chargement des ressources liées à la page.
+https://developer.mozilla.org/en-US/docs/Web/Reference/Events/DOMContentLoaded 
+
+2- Le browser lève l'event load en fin de step.
+Toutes les dépendances (de la page d'index) sont chargées.
+https://developer.mozilla.org/en-US/docs/Web/Reference/Events/load
+
+3- Démarrage Angular
+config() puis run() puis controller() du module principal définit dans ng-app
+
+Check :
+https://docs.angularjs.org/api/ngRoute/directive/ngView
+https://docs.angularjs.org/api/ng/service/$location
