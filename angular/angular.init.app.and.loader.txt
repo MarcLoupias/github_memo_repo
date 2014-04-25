@@ -31,3 +31,4 @@ others topics
 -------------
 https://github.com/angular/angular.js/issues/1306#issuecomment-8200414
 http://stackoverflow.com/questions/11125078/is-there-a-post-render-callback-for-angular-js-directive
+http://stackoverflow.com/questions/15932771/how-to-invoke-a-function-in-an-angular-directive-after-the-child-nodes-have-been/15946913#15946913
