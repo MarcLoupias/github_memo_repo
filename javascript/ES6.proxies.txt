@@ -1,0 +1,2 @@
+For errors when accessing an inexistant property :
+http://www.nczonline.net/blog/2014/04/22/creating-defensive-objects-with-es6-proxies/
