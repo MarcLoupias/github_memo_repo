@@ -1,0 +1,8 @@
+Angular ui routing
+==================
+
+https://github.com/angular-ui/ui-router
+https://github.com/angular-ui/ui-router/wiki
+
+Tuto
+http://cacodaemon.de/index.php?id=57
