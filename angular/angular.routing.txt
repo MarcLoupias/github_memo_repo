@@ -7,3 +7,7 @@ https://github.com/angular-ui/ui-router/wiki
 Tuto
 http://cacodaemon.de/index.php?id=57
 https://medium.com/opinionated-angularjs/a2fcbf874a1c
+
+Example
+http://angular-ui.github.io/ui-router/sample/#/contacts
+http://plnkr.co/edit/gmtcE2?p=preview
