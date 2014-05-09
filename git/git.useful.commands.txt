@@ -1,0 +1,2 @@
+create and pull a remote branch from a remote
+git checkout -b < new_branch > origin/< new_branch >
