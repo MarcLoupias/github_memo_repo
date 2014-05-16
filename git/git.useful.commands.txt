@@ -4,4 +4,6 @@ git checkout -b < new_branch > origin/< new_branch >
 # rename last commit msg
 git commit --amend -m "New commit message"
 
-
+# rollback local repo after a git pull
+use git log to find the hash of the desired commit
+then git reset --hard 1234abcd where 1234abcd is the hash of the desired commit.
