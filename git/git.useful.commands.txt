@@ -1,6 +1,11 @@
 # create and pull a remote branch from a remote
 git checkout -b < new_branch > origin/< new_branch >
 
+# create a local branch, do stuff, then push that new branch to the remote repo
+git checkout -b mynewfeature
+... edit files, add and commit ...
+git push -u origin mynewfeature
+
 # rename last commit msg
 git commit --amend -m "New commit message"
 
