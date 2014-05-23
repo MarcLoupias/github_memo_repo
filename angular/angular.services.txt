@@ -9,3 +9,6 @@ https://gist.github.com/Mithrandir0x/3639232
 
 fr tutorial
 http://www.angular-js.fr/les-services-angularjs/
+
+ng-repeat filtering
+http://www.angular-js.fr/astuce-angularjs-restreindre-resultats-ng-repeat/
