@@ -6,3 +6,6 @@ service, factory & provider
 https://groups.google.com/forum/#!topic/angular/hVrkvaHGOfc
 
 https://gist.github.com/Mithrandir0x/3639232
+
+fr tutorial
+http://www.angular-js.fr/les-services-angularjs/
