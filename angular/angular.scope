@@ -1,4 +1,13 @@
 $digest already in progress issue
+---------------------------------
 
 https://github.com/angular/angular.js/wiki/Anti-Patterns
 http://stackoverflow.com/questions/22346990/why-is-using-ifscope-phase-scope-apply-an-anti-pattern
+
+
+EvalAsync() or setTimeOut()
+---------------------------
+http://www.bennadel.com/blog/2605-scope-evalasync-vs-timeout-in-angularjs.htm
+
+EvalSync is to put your thing in the angular loop
+TimeOut is to delay your thing outside and probably after the angular loop
