@@ -1,6 +1,13 @@
+
+Scope must read
+---------------
+https://docs.angularjs.org/guide/scope
+https://docs.angularjs.org/api/ng/type/$rootScope.Scope
+http://teropa.info/blog/2014/01/26/the-three-watch-depths-of-angularjs.html
+http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html
+
 $digest already in progress issue
 ---------------------------------
-
 https://github.com/angular/angular.js/wiki/Anti-Patterns
 http://stackoverflow.com/questions/22346990/why-is-using-ifscope-phase-scope-apply-an-anti-pattern
 
@@ -17,3 +24,11 @@ http://stackoverflow.com/questions/17301572/angularjs-evalasync-vs-timeout
 - if code is queued using $evalAsync from a directive, it should run after the DOM has been manipulated by Angular, but before the browser renders
 - if code is queued using $evalAsync from a controller, it should run before the DOM has been manipulated by Angular (and before the browser renders) -- rarely do you want this
 - if code is queued using $timeout, it should run after the DOM has been manipulated by Angular, and after the browser renders (which may cause flicker in some cases)
+
+
+Scope dirty checking
+--------------------
+http://teropa.info/blog/2014/01/26/the-three-watch-depths-of-angularjs.html
+Angular is doing references comparisons when checking model changes.
+All binding done with {{}}, ng-model etc ... set a reference check.
+
