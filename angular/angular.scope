@@ -3,6 +3,7 @@ Scope must read
 ---------------
 https://docs.angularjs.org/guide/scope
 https://docs.angularjs.org/api/ng/type/$rootScope.Scope
+http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/ <- easier to understand then the official doc
 http://teropa.info/blog/2014/01/26/the-three-watch-depths-of-angularjs.html
 http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html
 http://stackoverflow.com/questions/9682092/databinding-in-angularjs  <- with comment from Misko Hevery
