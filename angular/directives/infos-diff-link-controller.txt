@@ -1,1 +1,3 @@
 http://jasonmore.net/angular-js-directives-difference-controller-link/
+
+http://tutorials.jenkov.com/angularjs/custom-directives.html
