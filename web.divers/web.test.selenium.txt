@@ -1,0 +1,7 @@
+
+http://fr.wikipedia.org/wiki/Selenium_%28informatique%29
+
+http://fr.wikipedia.org/wiki/Selenium_IDE
+
+http://docs.seleniumhq.org/
+
