@@ -1,0 +1,4 @@
+
+videos fr (epxlique convention commit angularjs pour avoir un historique git propre)
+http://www.parleys.com/play/535a2846e4b03397a8eee892/chapter18/about
+
