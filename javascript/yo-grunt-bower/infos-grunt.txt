@@ -32,3 +32,25 @@ grunt-contrib-connect
 ---------------------
 https://github.com/gruntjs/grunt-contrib-connect
 This task launch a local webserver
+
+manage template in html
+-----------------------
+http://gruntjs.com/api/grunt.file
+Exemple :
+
+grunt.file.copy('src/' + filename + '.html', this.data.dir + '/index.html', {
+  process: function (contents, path) {
+    return grunt.template.process(contents, {
+      data: {
+        baseRef: base,
+        scripts: jsFiles,
+        styles: cssFiles,
+        version: grunt.config('pkg.version'),
+        date: grunt.template.today("yyyy-mm-dd HH:MM"),
+        build: grunt.config('pkg.buildnumber')
+      }
+    });
+  }
+});
+
+<%= baseRef %> inside html template
