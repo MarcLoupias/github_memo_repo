@@ -1,3 +1,12 @@
+
+usefull commands rebase
+-----------------------
+# cancel a rebase
+git rebase --abort
+
+
+Article rebase
+--------------
 http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 
 The rebase command has some awesome options available in its --interactive (or -i) mode, and one of 
