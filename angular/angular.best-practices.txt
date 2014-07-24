@@ -6,7 +6,10 @@ https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html
 
 https://github.com/angular/angular.js/wiki/Best-Practices
 
-# CONTROLLERS
+# MODULE DECLARATION
+http://toddmotto.com/minimal-angular-module-syntax-approach-using-an-iife/
+
+# CONTROLLERS USAGE
 http://toddmotto.com/rethinking-angular-js-controllers/
 
 
