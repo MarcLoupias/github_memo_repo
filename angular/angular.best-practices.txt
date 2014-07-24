@@ -1,15 +1,15 @@
 
 
+# CODING STYLE
 https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html#controllersand
 https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html
 
-
-
 https://github.com/angular/angular.js/wiki/Best-Practices
 
+# VERY IMPORTANT STYLE GUIDE :
 http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/
 
-
+# SCAFFOLDING
 best scaffolding practices for generator-angular discussed here:
 https://github.com/yeoman/generator-angular/issues/109
 related to
