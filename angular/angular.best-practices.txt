@@ -22,3 +22,8 @@ https://github.com/yeoman/generator-angular/issues/109
 related to
 https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
 
+# SCAFFOLDING COMPARISON (this guy is insane)
+http://www.dancancro.com/comparison-of-angularjs-application-starters/
+https://docs.google.com/spreadsheets/d/1r8rJy2Q5p5QORYKcye93UECwOlSgFL24c5fyF7dqhaM/edit?pli=1#gid=1607194899
+
+
