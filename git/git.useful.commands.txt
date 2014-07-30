@@ -27,3 +27,6 @@ then git reset --hard 1234abcd where 1234abcd is the hash of the desired commit.
 
 # checking difference between 2 branches and put that log into a file
 git diff main-branch..alt-branch > file.name.diff
+
+# pull rebase instead of merge when pulling, good for keeping a clean history
+git pull --rebase=preserve
