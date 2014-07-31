@@ -1,0 +1,8 @@
+Based on :
+http://ify.io/lazy-loading-in-angularjs/
+
+src :
+https://github.com/ifyio/angularjs-lazy-loading-with-requirejs
+
+grunt task used :
+https://github.com/gruntjs/grunt-contrib-requirejs
