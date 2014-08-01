@@ -17,3 +17,4 @@ Angular already lazy load modules. They are executed only when needed.
 Require is useful when the website source code is big with many dependencies. 
 Downloading everything once can be a problem, especially for mobile websites.
 See this discussion -> http://stackoverflow.com/questions/12529083/does-it-make-sense-to-use-require-js-with-angular-js
+Other -> http://leog.me/log/making-sense-of-requirejs-with-angularjs
