@@ -9,9 +9,11 @@ https://github.com/angular/angular.js/wiki/Best-Practices
 # MODULE DECLARATION
 http://toddmotto.com/minimal-angular-module-syntax-approach-using-an-iife/
 
+# MINIFICATION
+https://github.com/btford/ngmin
+
 # CONTROLLERS USAGE
 http://toddmotto.com/rethinking-angular-js-controllers/
-
 
 # VERY IMPORTANT STYLE GUIDE :
 http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/
