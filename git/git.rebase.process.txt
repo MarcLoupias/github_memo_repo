@@ -12,7 +12,7 @@ git pull --rebase=preserve <remote> <branch>
 
 git checkout feature-branch
 
-git rebase feature-branch
+git rebase main-branch
 
 # resolve conflicts then commit WITHOUT ANY MSG
 git commit
