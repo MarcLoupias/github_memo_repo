@@ -5,6 +5,8 @@ https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html#c
 https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html
 
 https://github.com/angular/angular.js/wiki/Best-Practices
+https://github.com/toddmotto/angularjs-styleguide
+http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/
 
 # MODULE DECLARATION
 http://toddmotto.com/minimal-angular-module-syntax-approach-using-an-iife/
@@ -14,9 +16,6 @@ https://github.com/btford/ngmin
 
 # CONTROLLERS USAGE
 http://toddmotto.com/rethinking-angular-js-controllers/
-
-# VERY IMPORTANT STYLE GUIDE :
-http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/
 
 # SCAFFOLDING
 best scaffolding practices for generator-angular discussed here:
