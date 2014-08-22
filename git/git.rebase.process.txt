@@ -1,5 +1,6 @@
 
 When working on a feature branch, i want to get updates added to the main branch by others dev.
+It is mandatory to rebase main-branch in feature-branch before pushing feature-branch to origin.
 
 Workflow is :
 
@@ -19,3 +20,4 @@ git commit
 
 # finish the rebase
 git rebase --continue
+
