@@ -1,3 +1,4 @@
+see also : http://labs.excilys.com/2012/02/28/preparez-vous-a-reecrire-lhistoire-avec-git-rebase/
 
 When working on a feature branch, i want to get updates added to the main branch by others dev.
 It is mandatory to rebase main-branch in feature-branch before pushing feature-branch to origin.
