@@ -7,6 +7,7 @@ http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/ <- easie
 http://teropa.info/blog/2014/01/26/the-three-watch-depths-of-angularjs.html
 http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html
 http://stackoverflow.com/questions/9682092/databinding-in-angularjs  <- with comment from Misko Hevery
+http://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs/14049482#14049482
 
 $digest already in progress issue
 ---------------------------------
