@@ -1,4 +1,8 @@
 
+doc
+---
+http://git-scm.com/book/ch3-6.html#The-Perils-of-Rebasing
+
 usefull commands rebase
 -----------------------
 # cancel a rebase
