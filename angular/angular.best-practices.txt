@@ -1,4 +1,10 @@
-
+# REGLES GENERALES BASIQUES
+- Un fichier de source par ctrl / serv / direc
+- Pas de logique dans les ctrl
+- Pas de regles metier dans les templates. Passer par des services.
+- 95% du code de l'appli doit être dans des services et couvert pas des TU
+- Pas de manipulation du DOM ailleurs que dans une directive (compile ou link)
+- follow https://github.com/toddmotto/angularjs-styleguide
 
 # CODING STYLE
 https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html#controllersand
@@ -26,5 +32,3 @@ https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/
 # SCAFFOLDING COMPARISON (this guy is insane)
 http://www.dancancro.com/comparison-of-angularjs-application-starters/
 https://docs.google.com/spreadsheets/d/1r8rJy2Q5p5QORYKcye93UECwOlSgFL24c5fyF7dqhaM/edit?pli=1#gid=1607194899
-
-
