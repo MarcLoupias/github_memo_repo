@@ -1,0 +1,7 @@
+
+base :
+http://fr.openclassrooms.com/informatique/cours/ajax-et-l-echange-de-donnees-en-javascript/les-cookies-1
+
+angular api :
+https://docs.angularjs.org/api/ngCookies
+
