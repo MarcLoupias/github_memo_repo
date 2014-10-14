@@ -33,3 +33,6 @@ git pull --rebase=preserve
 
 # cancel a merge (git version >= 1.7.4)
 git merge --abort
+
+# merge conflict in favor of "their" changes (origin changes)
+git merge --strategy-option theirs
