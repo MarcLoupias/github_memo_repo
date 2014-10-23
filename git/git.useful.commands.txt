@@ -18,6 +18,9 @@ git checkout -b mynewfeature
 ... edit files, add and commit ...
 git push -u origin mynewfeature
 
+# delete last commit (will not delete modifications, just the commit)
+git reset HEAD^
+
 # rename last commit msg
 git commit --amend -m "New commit message"
 
