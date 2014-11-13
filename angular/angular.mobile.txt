@@ -1,1 +1,24 @@
+angular on mobile
+-----------------
 http://www.ng-newsletter.com/posts/angular-on-mobile.html
+
+mobile resize event detection in an angular context
+---------------------------------------------------
+var _widthScreen = angular.element($window).width();
+$(window).on('resize', function () {
+  if (_widthScreen !== angular.element($window).width()) {
+    _widthScreen = angular.element($window).width();
+    $rootScope.$broadcast(PJEvents.BODY_RESIZE);
+  }
+});
+
+mobile size
+-----------
+SMALL_SCREEN_MAX_WIDTH: 768
+MIDDLE_SCREEN_MAX_WIDTH: 992
+
+// smallResolution === smartphone viewport. > is tablet viewport
+$rootScope.isSmallResolution = function () {
+  return angular.element($window).width() < vars.SMALL_SCREEN_MAX_WIDTH;
+};
+
