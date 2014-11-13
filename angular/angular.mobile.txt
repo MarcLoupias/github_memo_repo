@@ -4,6 +4,7 @@ http://www.ng-newsletter.com/posts/angular-on-mobile.html
 
 mobile resize event detection in an angular context
 ---------------------------------------------------
+// put this code in the angular.module('yourApp').run(AppInitFn); with other init stuff
 var _widthScreen = angular.element($window).width();
 $(window).on('resize', function () {
   if (_widthScreen !== angular.element($window).width()) {
