@@ -5,7 +5,11 @@ To debug javascript code in Webstorm via karma with Jasmine.
 https://www.jetbrains.com/phpstorm/help/preparing-to-use-karma-test-runner.html
 The Karma website : http://karma-runner.github.io/0.12/index.html
 
+- config Karma
+--------------
 A simple karma.conf.js file generated with the karma command line tool is ok.
+Like this : http://karma-runner.github.io/0.12/intro/configuration.html
+http://karma-runner.github.io/0.12/config/configuration-file.html
 
 - prepare Webstorm and a browser
 --------------------------------
@@ -23,3 +27,5 @@ Add some breakpoints.
 Clic on the debug button (or MAJ + F9)
 
 Enjoy
+
+* The Jasmine doc http://jasmine.github.io/2.1/introduction.html
