@@ -29,3 +29,8 @@ Clic on the debug button (or MAJ + F9)
 Enjoy
 
 * The Jasmine doc http://jasmine.github.io/2.1/introduction.html
+
+Video ressources
+----------------
+short vid (5mins) with basics
+https://www.youtube.com/watch?v=oyWW_V4wALs
