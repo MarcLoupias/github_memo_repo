@@ -1,6 +1,8 @@
 Based on :
 http://ify.io/lazy-loading-in-angularjs/
 
+see also : https://github.com/ocombe/ocLazyLoad
+
 src :
 https://github.com/ifyio/angularjs-lazy-loading-with-requirejs
 
