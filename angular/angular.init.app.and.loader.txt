@@ -1,6 +1,7 @@
 check this :
 http://stackoverflow.com/questions/14968690/sending-event-when-angular-js-finished-loading
-
+en fr :
+http://blog.xebia.fr/2013/10/14/les-fondations-dangularjs/
 
 Bootstrap d'une app web
 =======================
