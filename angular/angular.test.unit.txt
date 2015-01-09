@@ -15,17 +15,16 @@ article sur les test
 --------------------
 http://blog.xebia.fr/2013/03/21/introduction-aux-tests-unitaires-en-javascript/
 
-Testing a throw error :
------------------------
+Testing a throw exception :
+---------------------------
 it('throws exception when args are undefined or null', inject(function (HistoryLRindexService) {
   expect(function(){HistoryLRindexService.addIndexElement(undefined, 'toto');})
     .toThrowError('HistoryLRindexValueFactory.addIndexElement(key, data) error : key null or undefined');
 }));
 
 - use anonymous function for the call
-- use toThrowError()
+- use toThrowError(exceptionMsg) matcher from Jasmine
 - your impl should be something like that :
 if(!key) {
   throw new Error('HistoryLRindexValueFactory.addIndexElement(key, data) error : key null or undefined');
 }
-- 
