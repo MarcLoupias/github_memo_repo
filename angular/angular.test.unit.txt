@@ -7,6 +7,9 @@ tests de services
 -----------------
 http://stackoverflow.com/questions/13013772/how-do-i-test-an-angularjs-service-with-jasmine
 
+Dependencies mocking
+--------------------
+http://stackoverflow.com/questions/17554727/mocking-angular-module-dependencies-in-jasmine-unit-tests
 
 article sur les test
 --------------------
