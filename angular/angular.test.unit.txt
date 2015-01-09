@@ -14,3 +14,18 @@ http://stackoverflow.com/questions/17554727/mocking-angular-module-dependencies-
 article sur les test
 --------------------
 http://blog.xebia.fr/2013/03/21/introduction-aux-tests-unitaires-en-javascript/
+
+Testing a throw error :
+-----------------------
+it('throws exception when args are undefined or null', inject(function (HistoryLRindexService) {
+  expect(function(){HistoryLRindexService.addIndexElement(undefined, 'toto');})
+    .toThrowError('HistoryLRindexValueFactory.addIndexElement(key, data) error : key null or undefined');
+}));
+
+- use anonymous function for the call
+- use toThrowError()
+- your impl should be something like that :
+if(!key) {
+  throw new Error('HistoryLRindexValueFactory.addIndexElement(key, data) error : key null or undefined');
+}
+- 
