@@ -1,3 +1,6 @@
 http://www.thinkster.io/pick/SoeujAQBP3/angularjs-promises
 
 
+a good one :
+http://www.webdeveasy.com/javascript-promises-and-angularjs-q-service/
+
