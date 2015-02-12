@@ -1,0 +1,15 @@
+
+# npm basic commands
+http://dreamerslab.com/blog/en/npm-basic-commands/
+
+# 10 Cool Things You Probably Didn’t Realize npm Could Do
+http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm
+
+# list globally installed package by name
+npm -list -g <package_name>
+# list locally installed package by name
+npm -list <package_name>
+
+# view version on repository
+npm view <package_name> version
+
