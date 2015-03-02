@@ -4,3 +4,5 @@ http://stackoverflow.com/questions/10713708/tracking-google-analytics-page-views
 https://github.com/luisfarzati/angulartics
 
 
+http://www.analog-ni.co/precomposing-a-spa-may-become-the-holy-grail-to-seo
+
