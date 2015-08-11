@@ -1,4 +1,6 @@
 
+# semver to manage scopes : https://docs.npmjs.com/misc/semver
+
 # npm basic commands
 http://dreamerslab.com/blog/en/npm-basic-commands/
 
