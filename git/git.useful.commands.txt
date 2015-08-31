@@ -32,6 +32,8 @@ then git reset --hard 1234abcd where 1234abcd is the hash of the desired commit.
 git diff main-branch..alt-branch > file.name.diff
 
 # pull rebase instead of merge when pulling, good for keeping a clean history
+# mandatory when origin maintainer squashes on origin published branche
+# see http://stackoverflow.com/a/18930599
 git pull --rebase=preserve
 
 # cancel a merge (git version >= 1.7.4)
