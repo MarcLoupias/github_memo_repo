@@ -34,6 +34,7 @@ git diff main-branch..alt-branch > file.name.diff
 # pull rebase instead of merge when pulling, good for keeping a clean history
 # mandatory when origin maintainer squashes on origin published branche
 # see http://stackoverflow.com/a/18930599
+# see http://gitready.com/advanced/2009/02/11/pull-with-rebase.html
 git pull --rebase=preserve
 
 # cancel a merge (git version >= 1.7.4)
