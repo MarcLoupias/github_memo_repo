@@ -5,4 +5,4 @@ Correspond à la doc de l'équipe Angular : https://github.com/MarcLoupias/githu
 
 bien utiliser git merge & rebase :
 http://www.git-attitude.fr/2014/05/04/bien-utiliser-git-merge-et-rebase/
-
+https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa
