@@ -11,6 +11,7 @@ Dependencies mocking
 --------------------
 ng : http://stackoverflow.com/questions/17554727/mocking-angular-module-dependencies-in-jasmine-unit-tests
 custom : http://stackoverflow.com/questions/14773269/injecting-a-mock-into-an-angularjs-service/18756347#18756347
+divers : http://www.sitepoint.com/mocking-dependencies-angularjs-tests/
 
 article sur les test
 --------------------
