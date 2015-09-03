@@ -16,6 +16,7 @@ divers : http://www.sitepoint.com/mocking-dependencies-angularjs-tests/
 article sur les test
 --------------------
 http://blog.xebia.fr/2013/03/21/introduction-aux-tests-unitaires-en-javascript/
+http://angular-tips.com/blog/categories/unit-test/ (super top série d'articles)
 
 Testing a throw exception :
 ---------------------------
