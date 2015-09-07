@@ -1,3 +1,10 @@
+best articles 
+-------------
+http://angular-tips.com/blog/categories/unit-test/
+
+best lib (ng-describe)
+----------------------
+https://github.com/kensho/ng-describe
 
 tests avec $http
 ----------------
