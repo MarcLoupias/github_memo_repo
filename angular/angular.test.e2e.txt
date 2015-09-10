@@ -1,3 +1,8 @@
 http://blog.xebia.com/2014/03/08/angularjs-e2e-testing-using-ngmocke2e/
 
 
+locators protractors :
+http://www.protractortest.org/#/locators
+
+page objects :
+https://docs.google.com/presentation/d/1B6manhG0zEXkC-H-tPo2vwU06JhL8w9-XCF9oehXzAQ/edit?pli=1#slide=id.g2bc490733_00
