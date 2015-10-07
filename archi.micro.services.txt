@@ -1,0 +1,6 @@
+
+https://enterprisersproject.com/article/2015/9/what-cios-need-know-about-microservices-and-devops
+https://opensource.com/resources/what-are-microservices
+
+http://opensource.com/resources/what-docker
+
