@@ -1,5 +1,0 @@
-
-
-mock vs spy
------------
-http://stackoverflow.com/questions/12827580/mocking-vs-spying-in-mocking-frameworks
