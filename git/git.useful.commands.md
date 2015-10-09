@@ -1,3 +1,4 @@
+```
 # git clone (http://stackoverflow.com/questions/651038/how-do-you-clone-a-git-repository-into-a-specific-folder)
 git clone [url] [dir_name]
 
@@ -50,3 +51,4 @@ git merge --strategy-option theirs
 # here master is the targeted branch (ie : where the commit will go)
 git checkout master
 git cherry-pick 1234abcd
+```
