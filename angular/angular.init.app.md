@@ -13,13 +13,14 @@ Le moment exact est aléatoire, il n'attend pas le chargement des ressources li�
 Toutes les dépendances (de la page d'index) sont chargées.
 
 3. Démarrage Angular
-config() de tous les modules dans l'ordre inverse de l'arbre
+`config()` de tous les modules dans l'ordre inverse de l'arbre
 puis
-run() de tous les modules dans le même ordre que pour config()
+`run()` de tous les modules dans le même ordre que pour `config()`
 puis
-le controller du module principal définit dans ng-app
+le `controller` du module principal définit dans `ng-app`
 
-Ex : on a la hiérarchie suivante :
+Ex, on a la hiérarchie suivante :
+
 ```
 app
 app.moduleA
