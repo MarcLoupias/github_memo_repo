@@ -80,8 +80,13 @@ app
 ##### Documentation à check :
 - [ng dev guide - module] (https://docs.angularjs.org/guide/module)
 - [ng dev guide - bootstrap] (https://docs.angularjs.org/guide/bootstrap)
+- [ng dev guide - dependency injection] (https://docs.angularjs.org/guide/di)
 - [angular.module] (https://docs.angularjs.org/api/ng/function/angular.module)
+- [angular.injector] (https://docs.angularjs.org/api/ng/function/angular.injector)
+- [ngApp] (https://docs.angularjs.org/api/ng/directive/ngApp)
 - [ngView] (https://docs.angularjs.org/api/ngRoute/directive/ngView)
+- [$injector] (https://docs.angularjs.org/api/auto/service/$injector)
+- [$provide] (https://docs.angularjs.org/api/auto/service/$provide)
 - [$location] (https://docs.angularjs.org/api/ng/service/$location)
 
 #### knowing when the a view has finished loading
@@ -92,3 +97,4 @@ app
 - [Misko Hevery comment on an angular github issue] (https://github.com/angular/angular.js/issues/1306#issuecomment-8200414)
 - [is there a post render callback for angular directive] (http://stackoverflow.com/questions/11125078/is-there-a-post-render-callback-for-angular-js-directive)
 - [how to invoke a function in an angular directive after the child nodes have been processed] (http://stackoverflow.com/questions/15932771/how-to-invoke-a-function-in-an-angular-directive-after-the-child-nodes-have-been/15946913#15946913)
+- [What is meant by Bootstrapping in angular JS?] (http://stackoverflow.com/questions/21058213/what-is-meant-by-bootstrapping-in-angular-js)
