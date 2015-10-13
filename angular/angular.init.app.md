@@ -15,9 +15,11 @@ Toutes les dépendances (de la page d'index) ont été téléchargées.
 3. Démarrage Angular
   1. la méthode `angularInit(element, bootstrap)` est exécutée.
 Elle cherche la directive `ng-app` et son paramètre (le module racine de l'application).
+
   2. la méthode `bootstrap(element, bootstrap)` est exécutée.
 Elle détermine si le bootstrap de l'app doit se faire maintenant ou si il est délayé.
 Si il n'est pas délayé elle crée l'injecteur via `createInjector(modulesToLoad, strictDi)`
+
   3. création de l'injecteur via `createInjector(modulesToLoad, strictDi)`
 Tous les modules angular et leurs sous modules (modules optionnels comme ngLocale) sont chargés.
 Un cache des composants est créé (les services sont des singletons, s'ils ne sont pas instanciés ils le sont et sont ajoutés au cache, à chaque nouvel appel le cache est vérifié et si angular trouve quelque chose il sert l'élément présent dans le cache et ne fait pas de nouvelle instanciation).
@@ -32,7 +34,14 @@ puis
 `run()` de tous les modules dans le même ordre que pour `config()`
 Les `provider` sont interdits à ce stade (pas de config de `provider` au runtime.
 
-puis
+  4. L'injecteur a été créé. Tous les modules ont joué leur `config()` puis leur `run()` en terminant par celui du module principal de l'app.
+L'injecteur crée le `$rootScope` puis compile l'app sur la base de `ng-app` qui sert de racine.
+Si une directive `ng-controller` est rencontrée, l'injecteur est appelé pour instancier le controller associé.
+
+  5. La webapp est rendue, elle attend une interaction de l'utilisateur.
+
+
+##### Exemple ordre d'exécution des modules au bootstrap
 
 Ex, on a la hiérarchie suivante :
 
@@ -69,12 +78,6 @@ app.moduleA.subModuleA1
 app.moduleB
 app
 ```
-
-  4. L'injecteur a été créé. Tous les modules ont joué leur `config()` puis leur `run()` en terminant par celui du module principal de l'app.
-L'injecteur crée le `$rootScope` puis compile l'app sur la base de `ng-app` qui sert de racine.
-Si une directive `ng-controller` est rencontrée, l'injecteur est appelé pour instancier le controller associé.
-
-  5. La webapp est rendue, elle attend une interaction de l'utilisateur.
 
 ##### Documentation à check :
 - [ng dev guide - module] (https://docs.angularjs.org/guide/module)
