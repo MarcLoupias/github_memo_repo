@@ -24,10 +24,8 @@ Si il n'est pas délayé elle crée l'injecteur via `createInjector(modulesToLoa
 Tous les modules angular et leurs sous modules (modules optionnels comme ngLocale) sont chargés.
 Un cache des composants est créé (les services sont des singletons, s'ils ne sont pas instanciés ils le sont et sont ajoutés au cache, à chaque nouvel appel le cache est vérifié et si angular trouve quelque chose il sert l'élément présent dans le cache et ne fait pas de nouvelle instanciation).
 Viennent ensuite toutes les dépendances déclarées sur le module principal.
-
 Durant cette phase tout l'arbre des dépendance est parsé.
 Une liste des `config()` à exécuter est constituée ainsi qu'une liste de `run()`
-
 Les `config()` de tous les modules sont ensuite exécutés dans l'ordre inverse de l'arbre.
 Seuls les services de type `provider` et `constant` peuvent être injectés.
 puis
