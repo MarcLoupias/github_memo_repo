@@ -1,8 +1,5 @@
 
-### Angular app init & loader management
-
-[sending event when angular finished loading] (http://stackoverflow.com/questions/14968690/sending-event-when-angular-js-finished-loading)
-[les fondations de AngularJS] (http://blog.xebia.fr/2013/10/14/les-fondations-dangularjs/)
+### Angular app init 
 
 #### Bootstrap d'une app web
 
@@ -98,3 +95,5 @@ app
 - [is there a post render callback for angular directive] (http://stackoverflow.com/questions/11125078/is-there-a-post-render-callback-for-angular-js-directive)
 - [how to invoke a function in an angular directive after the child nodes have been processed] (http://stackoverflow.com/questions/15932771/how-to-invoke-a-function-in-an-angular-directive-after-the-child-nodes-have-been/15946913#15946913)
 - [What is meant by Bootstrapping in angular JS?] (http://stackoverflow.com/questions/21058213/what-is-meant-by-bootstrapping-in-angular-js)
+- [sending event when angular finished loading] (http://stackoverflow.com/questions/14968690/sending-event-when-angular-js-finished-loading)
+- [les fondations de AngularJS] (http://blog.xebia.fr/2013/10/14/les-fondations-dangularjs/)
