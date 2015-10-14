@@ -1,3 +1,0 @@
-Great one (facebook, github, google, ...)
-https://github.com/lynndylanhurley/ng-token-auth
-
