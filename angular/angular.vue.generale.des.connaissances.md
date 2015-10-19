@@ -1,21 +1,12 @@
 
-Mes points à voir/revoir
-------------------------
-
-- Tests fonctionnels d'une application
+#### Mes points à voir/revoir
 - Fonctionnement interne : digest 
-- Application et modules, démarrage automatique ou manuel
-- services providers
-- API de promises
-- Ecriture de directives : phases compile et link
 - Ecriture de directives : transclusion
 
+[Le programme] (http://www.methotic.com/formation-angularjs)
 
 
-Le programme http://www.methotic.com/formation-angularjs
-------------
-
-JavaScript avancé - journée optionnelle
+**JavaScript avancé - journée optionnelle**
 
     Pièges de la syntaxe JavaScript
     Types primitifs
@@ -26,7 +17,7 @@ JavaScript avancé - journée optionnelle
     Gestion des exceptions
     Exercices
 
-AngularJS - journée 1
+**AngularJS - journée 1**
 
     Les grandes lignes du framework, vues dynamiques et data binding, pattern MVVM
     Vues et contrôleurs
@@ -35,7 +26,7 @@ AngularJS - journée 1
     Fonctionnement interne : digest et watches
     Exercices
 
-AngularJS - journée 2
+**AngularJS - journée 2**
 
     Application et modules, démarrage automatique ou manuel
     Application mono-page, routage avec $route, modes de routage, service $location
@@ -43,7 +34,7 @@ AngularJS - journée 2
     Services et injection de dépendances, fonctionnement des providers, configuration des services
     Exercices
 
-AngularJS - journée 3
+**AngularJS - journée 3**
 
     Echanges avec le serveur, $http et $resource
     API de promises
@@ -52,7 +43,7 @@ AngularJS - journée 3
     Evénements utilisateur
     Exercices
 
-AngularJS - journée 4
+**AngularJS - journée 4**
 
     Ecriture de directives : phases compile et link, scope enfant ou scope isolé, transclusion, etc.
     Bonnes pratiques avec AngularJS
