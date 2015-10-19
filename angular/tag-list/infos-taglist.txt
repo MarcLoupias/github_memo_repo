@@ -1,7 +1,0 @@
-https://github.com/chrispittman/angular-taglist
-
-http://plnkr.co/edit/0vzZsn70SGQkIKKZoVEP?p=preview
-
-
-the best one by far :
-http://decipherinc.github.io/angular-tags/
