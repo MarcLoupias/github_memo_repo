@@ -1,6 +1,6 @@
 #### optimisation
 - [tech.small-improvements.com : angularjs] (http://tech.small-improvements.com/category/angularjs/)
-- [tech.small-improvements.com : analysing-performance-of-angularjs-screens] (http://tech.small-improvements.com/2013/11/28/analysing-performance-of-angularjs-screens/
+- [tech.small-improvements.com : analysing-performance-of-angularjs-screens] (http://tech.small-improvements.com/2013/11/28/analysing-performance-of-angularjs-screens/)
 - [optimizing a large angularjs webapp presentation] (https://docs.google.com/presentation/d/15XgHRI8Ng2MXKZqglzP3PugWFZmIDKOnlAXDGZW2Djg/edit#slide=id.g2a1650a08_026)
 - [ng-newsletter.com : angular-on-mobile] (http://www.ng-newsletter.com/posts/angular-on-mobile.html)
 - [tableaux & ng-repeat] (http://www.frangular.com/2013/01/tableaux-angularjs-ngrepeat-tbody.html)
