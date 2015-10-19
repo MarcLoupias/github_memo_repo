@@ -1,17 +1,19 @@
-utiliser des webservices retournant du xml avec Angular :
----------------------------------------------------------
-Utiliser jQuery : http://api.jquery.com/jquery.parsexml/
+#### utiliser des webservices retournant du xml avec Angular
 
-Côté angular faire un call de webservice via $http
-Le xml retourné est dans res.data
+Utiliser jQuery : [jquery.parsexml] (http://api.jquery.com/jquery.parsexml/)
 
+Côté angular faire un call de webservice via `$http`.
+Le xml retourné est dans `res.data`.
+
+```javascript
 if (typeof(xml) === 'string') {
   xml = $.parseXML(xml);
 }
+```
 
-Typer les données via des pseudos classes javascript
-et faire une methode parse dans chaque classe pour remplir un objet via un simple :
+Typer les données via des pseudos classes javascript et faire une methode parse dans chaque classe pour remplir un objet via un simple :
 
+```javascript
 function MaClasse(data) {
   this.data1 = '';
   this.data2 = {};
@@ -33,6 +35,6 @@ MaClasse.prototype.parse = function( data ) {
     that.data3.push(new MaClasseData3( $(this) ));
   });
 }
+```
 
-Ce fonctionnement permet d'avoir des méthodes utilitaires dans le prototype de chaque type créé
-pour accéder au data via des règles métiers ou autre.
+Ce fonctionnement permet d'avoir des méthodes utilitaires dans le prototype de chaque type créé pour accéder au data via des règles métiers ou autre.
