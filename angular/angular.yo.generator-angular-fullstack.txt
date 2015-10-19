@@ -1,5 +1,0 @@
-https://npmjs.org/package/generator-angular-fullstack
-
-https://github.com/DaftMonk/fullstack-demo
-
-
