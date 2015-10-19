@@ -6,11 +6,10 @@
 
 #### installation des drivers pour webdrivers
 
-ATTENTION CHROME & FIREFOX :
-need dl update de webdriver
-Derrière un proxy il faut config envvar `HTTP_PROXY` & `HTTPS_PROXY` sur fiddler (http://localhost:8888)
-et set ignore_ssl à true si le magasin de certificat du réseau est fucké. Pour le moment on sait le faire que en dur dans 
-le source de webdriver-manager ( `.\node_modules\gulp-protractor\node_modules\protractor\bin\webdriver-manager` )
+ATTENTION CHROME & FIREFOX, need dl update de webdriver.
+
+Derrière un proxy il faut config envvar `HTTP_PROXY` & `HTTPS_PROXY` sur fiddler (`http://localhost:8888`)
+et set `ignore_ssl` à true si le magasin de certificat du réseau est fucké. Pour le moment on sait le faire que en dur dans le source de webdriver-manager ( `.\node_modules\gulp-protractor\node_modules\protractor\bin\webdriver-manager` )
 ligne 93 (`default('ignore_ssl', false)`.)
 
 - `ignore_ssl` for protractor [issue 1847] (https://github.com/angular/protractor/issues/1847#issuecomment-76023932).
@@ -41,7 +40,7 @@ UnknownError: The path to the driver executable must be set by the webdriver.ie.
 ```
   
 IE nécessite un driver spécifique et une config spécifique.
-Dans `gulp-protractor` les drivers webdriver de IE ne sont pas DL, cf [issue 38] -https://github.com/mllrsohn/gulp-protractor/issues/38)
+Dans `gulp-protractor` les drivers webdriver de IE ne sont pas DL, cf [issue 38] (https://github.com/mllrsohn/gulp-protractor/issues/38)
 Télécharger les drivers IE manuellement [ici] (http://selenium-release.storage.googleapis.com/index.html).
 Doc du driver [ici] (https://code.google.com/p/selenium/wiki/InternetExplorerDriver).
 
