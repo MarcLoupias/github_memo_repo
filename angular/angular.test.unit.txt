@@ -1,40 +1,41 @@
-best articles 
--------------
-http://angular-tips.com/blog/categories/unit-test/
 
-best lib (ng-describe)
-----------------------
-https://github.com/kensho/ng-describe
+### Angular Unit Tests
 
-tests avec $http
-----------------
-http://blog.occitech.fr/2013/10/les-tests-angularjs-le-guide-de-a-a-z-partie-1-les-tests-unitaires/
+#### best articles 
+- [angular-tips.com : unit-test] (http://angular-tips.com/blog/categories/unit-test/)
 
-tests de services
------------------
-http://stackoverflow.com/questions/13013772/how-do-i-test-an-angularjs-service-with-jasmine
+#### best lib (ng-describe)
+- [ng-describe] (https://github.com/kensho/ng-describe)
 
-Dependencies mocking
---------------------
-ng : http://stackoverflow.com/questions/17554727/mocking-angular-module-dependencies-in-jasmine-unit-tests
-custom : http://stackoverflow.com/questions/14773269/injecting-a-mock-into-an-angularjs-service/18756347#18756347
-divers : http://www.sitepoint.com/mocking-dependencies-angularjs-tests/
+#### tests avec $http
+- [les-tests-angularjs-le-guide-de-a-a-z] (http://blog.occitech.fr/2013/10/les-tests-angularjs-le-guide-de-a-a-z-partie-1-les-tests-unitaires/)
 
-article sur les test
---------------------
-http://blog.xebia.fr/2013/03/21/introduction-aux-tests-unitaires-en-javascript/
-http://angular-tips.com/blog/categories/unit-test/ (super top série d'articles)
+#### tests de services
+- [how-do-i-test-an-angularjs-service-with-jasmine] (http://stackoverflow.com/questions/13013772/how-do-i-test-an-angularjs-service-with-jasmine)
 
-Testing a throw exception :
----------------------------
+#### Dependencies mocking
+- [mocking-angular-module-dependencies] (http://stackoverflow.com/questions/17554727/mocking-angular-module-dependencies-in-jasmine-unit-tests)
+- [injecting-a-mock-into-an-angularjs-service] (http://stackoverflow.com/questions/14773269/injecting-a-mock-into-an-angularjs-service/18756347#18756347)
+- [divers] (http://www.sitepoint.com/mocking-dependencies-angularjs-tests/)
+
+#### article sur les test
+- [introduction-aux-tests-unitaires-en-javascript] (http://blog.xebia.fr/2013/03/21/introduction-aux-tests-unitaires-en-javascript/)
+
+#### Testing a throw exception :
+
+```javascript
 it('throws exception when args are undefined or null', inject(function (HistoryLRindexService) {
   expect(function(){HistoryLRindexService.addIndexElement(undefined, 'toto');})
     .toThrowError('HistoryLRindexValueFactory.addIndexElement(key, data) error : key null or undefined');
 }));
+```
 
 - use anonymous function for the call
-- use toThrowError(exceptionMsg) matcher from Jasmine
+- use `toThrowError(exceptionMsg)` [matcher from Jasmine] (http://jasmine.github.io/2.3/introduction.html#section-Included_Matchers)
+
 - your impl should be something like that :
+```javascript
 if(!key) {
   throw new Error('HistoryLRindexValueFactory.addIndexElement(key, data) error : key null or undefined');
 }
+```
