@@ -3,6 +3,7 @@
 
 #### Why ?
 - Because of [Same Origin Policy] (http://en.wikipedia.org/wiki/Same_origin_policy)
+
 > The policy permits scripts running on pages originating from the same site – a combination of scheme, hostname, and port number – to access each other's DOM with no specific restrictions, but prevents access to DOM on different sites. 
 Same-origin policy also applies to `XMLHttpRequest` and to `robots.txt`.
 - [Cross Origin Ressource Sharing] (http://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
