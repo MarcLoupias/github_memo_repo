@@ -13,6 +13,7 @@
 - [angularjs-google-style] (https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 - [Best-Practices] (https://github.com/angular/angular.js/wiki/Best-Practices)
 - [angular-styleguide (John Papa)] (https://github.com/johnpapa/angular-styleguide)
+- [angular-styleguide (Minko Gechev)] (https://github.com/mgechev/angularjs-style-guide)
 - [angularjs-styleguide (Todd Motto)] (https://github.com/toddmotto/angularjs-styleguide)
 - [opinionated-angular-js-styleguide-for-teams (Todd Motto)] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 
