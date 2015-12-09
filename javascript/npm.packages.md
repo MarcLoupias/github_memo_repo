@@ -5,3 +5,7 @@
 > "Globs" are the patterns you type when you do stuff like `ls *.js` on
 the command line, or put `build/*` in a `.gitignore` file.
 
+- [lodash] (https://lodash.com/)
+La librairie javascript Lodash est une alternative à la librairie utilitaire Underscore, alternative se voulant plus performante, plus consistante et ajoutant quelques fonctionnalités supplémentaires.
+Autres liens : [github lodash] (https://github.com/lodash/lodash), [article blog.xebia.fr sur lodash] (http://blog.xebia.fr/2013/02/20/lodash-librairie-utilitaire-javascript-alternative-a-underscore/)
+
