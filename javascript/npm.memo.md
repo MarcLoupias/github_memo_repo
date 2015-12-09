@@ -50,3 +50,9 @@ TLDR :
 - Install it locally if you're going to `require()` it.
 - Install it globally if you're going to run it on the command line.
 - If you need both, then install it in both places, or use `npm link`.
+
+### managing dependencies
+
+- [npm-check] (https://www.npmjs.com/package/npm-check)
+- [npm-check-updates] (https://www.npmjs.com/package/npm-check-updates)
+- [npm-remote-ls] (https://www.npmjs.com/package/npm-remote-ls)
