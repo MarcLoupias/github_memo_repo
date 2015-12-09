@@ -55,5 +55,9 @@ TLDR :
 
 - [npm-check] (https://www.npmjs.com/package/npm-check)
 > Check for outdated, incorrect, and unused dependencies.
+
 - [npm-check-updates] (https://www.npmjs.com/package/npm-check-updates)
+> Find newer versions of dependencies than what your package.json or bower.json allows
+
 - [npm-remote-ls] (https://www.npmjs.com/package/npm-remote-ls)
+> Examine a package's dependency graph before you install it
