@@ -54,5 +54,6 @@ TLDR :
 ### managing dependencies
 
 - [npm-check] (https://www.npmjs.com/package/npm-check)
+> Check for outdated, incorrect, and unused dependencies.
 - [npm-check-updates] (https://www.npmjs.com/package/npm-check-updates)
 - [npm-remote-ls] (https://www.npmjs.com/package/npm-remote-ls)
