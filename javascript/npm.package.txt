@@ -1,4 +1,0 @@
-middleware proxy à exec avec browser-sync
------------------------------------------
-https://github.com/chimurai/http-proxy-middleware
-http://www.browsersync.io/docs/options/#option-server
