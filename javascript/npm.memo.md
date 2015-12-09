@@ -39,3 +39,14 @@ npm view <package_name> version
 # display npm config
 npm config list -ls
 ```
+
+### npm folders
+[check this] (https://docs.npmjs.com/files/folders)
+
+TLDR :
+
+- Local install (default): puts stuff in `./node_modules` of the current package root.
+- Global install (with `-g`): puts stuff in `/usr/local` or wherever node is installed.
+- Install it locally if you're going to `require()` it.
+- Install it globally if you're going to run it on the command line.
+- If you need both, then install it in both places, or use `npm link`.
