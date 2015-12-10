@@ -17,6 +17,9 @@ built upon [vinyl] (https://github.com/gulpjs/vinyl) and [vinyl-fs] (https://git
 - [vinyl] (https://github.com/gulpjs/vinyl) Virtual file format
 
 ## gulp node modules
+- [gulp-protractor] (https://github.com/mllrsohn/gulp-protractor)
+wrapper module for [protractor] (https://github.com/angular/protractor)
+
 - [gulp-load-plugins] (https://github.com/jackfranklin/gulp-load-plugins)
 Check your project's package.json and load all gulp plugins. They are now accessible from gulp-load-plugins.
 Ex : 
