@@ -18,10 +18,13 @@ built upon [vinyl] (https://github.com/gulpjs/vinyl) and [vinyl-fs] (https://git
 
 ## gulp node modules
 - [gulp-protractor] (https://github.com/mllrsohn/gulp-protractor)
+
 wrapper module for [protractor] (https://github.com/angular/protractor)
 
 - [gulp-load-plugins] (https://github.com/jackfranklin/gulp-load-plugins)
+
 Check your project's package.json and load all gulp plugins. They are now accessible from gulp-load-plugins.
+
 Ex : 
 ```javascript
 var plugins = require('gulp-load-plugins')();
@@ -31,4 +34,12 @@ plugins.concat = require('gulp-concat');
 ```
 
 - [gulp-autoprefixer] (https://github.com/sindresorhus/gulp-autoprefixer)
+
 wrapper module for [autoprefixer] (https://github.com/postcss/autoprefixer)
+
+- [gulp-inject] (https://github.com/klei/gulp-inject)
+
+> A stylesheet, javascript and webcomponent reference injection plugin for gulp. No more manual editing of your index.html!
+
+`gulp-inject` takes a stream of source files, transforms each file to a string and injects each transformed string into placeholders in the target stream files.
+
