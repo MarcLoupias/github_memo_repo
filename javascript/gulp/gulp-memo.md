@@ -15,3 +15,14 @@ built upon [vinyl] (https://github.com/gulpjs/vinyl) and [vinyl-fs] (https://git
 - [nodejs pipe] (https://nodejs.org/api/stream.html#stream_readable_pipe_destination_options) to chain gulp tasks
 - [vinyl fs] (https://github.com/gulpjs/vinyl-fs) Vinyl adapter for the file system
 - [vinyl] (https://github.com/gulpjs/vinyl) Virtual file format
+
+## gulp node modules
+- [gulp-load-plugins] (https://github.com/jackfranklin/gulp-load-plugins)
+Check your project's package.json and load all gulp plugins. They are now accessible from gulp-load-plugins.
+Ex : 
+```javascript
+var plugins = require('gulp-load-plugins')();
+
+plugins.jshint = require('gulp-jshint');
+plugins.concat = require('gulp-concat');
+```
