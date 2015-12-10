@@ -26,3 +26,6 @@ var plugins = require('gulp-load-plugins')();
 plugins.jshint = require('gulp-jshint');
 plugins.concat = require('gulp-concat');
 ```
+
+- [gulp-autoprefixer] (https://github.com/sindresorhus/gulp-autoprefixer)
+wrapper module for [autoprefixer] (https://github.com/postcss/autoprefixer)
