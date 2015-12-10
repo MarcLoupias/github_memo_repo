@@ -43,3 +43,8 @@ wrapper module for [autoprefixer] (https://github.com/postcss/autoprefixer)
 
 `gulp-inject` takes a stream of source files, transforms each file to a string and injects each transformed string into placeholders in the target stream files.
 
+- [gulp-csso] (https://github.com/ben-eb/gulp-csso)
+
+> Minify CSS with CSSO.
+
+wrapper module for [csso] (https://www.npmjs.com/package/csso)
