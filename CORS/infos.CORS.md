@@ -16,6 +16,7 @@ Same-origin policy also applies to `XMLHttpRequest` and to `robots.txt`.
 - [github.com/angular : issue 5009] (https://github.com/angular/angular.js/issues/5009)
 - [enable-cors.org] (http://enable-cors.org/)
 - [cors-why-and-how] (http://haanto.com/cors-why-and-how/)
+- [CORS & proxy in javascript front project] (http://blog.javascripting.com/2015/01/17/dont-hassle-with-cors/)
 
 > When accessing a ressource from a website with a different domain/port, recent browsers refuse to interpret response because of CORS mechanism.
 > The server needs to put some headers to allow browsers to interpret responses.
