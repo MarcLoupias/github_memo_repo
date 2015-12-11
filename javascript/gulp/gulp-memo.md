@@ -48,3 +48,7 @@ wrapper module for [autoprefixer] (https://github.com/postcss/autoprefixer)
 > Minify CSS with CSSO.
 
 wrapper module for [csso] (https://www.npmjs.com/package/csso)
+
+- [gulp-angular-templatecache] (https://github.com/miickel/gulp-angular-templatecache)
+
+> Concatenates and registers AngularJS templates in the `$templateCache`.
