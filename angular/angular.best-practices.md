@@ -32,3 +32,6 @@ best scaffolding practices for generator-angular discussed [here] (https://githu
 #### SCAFFOLDING COMPARISON (this guy is insane)
 - [comparison-of-angularjs-application-starters] (http://www.dancancro.com/comparison-of-angularjs-application-starters/)
 - [comparison spreadsheet ? (need to be logged in gmail)] (https://docs.google.com/spreadsheets/d/1r8rJy2Q5p5QORYKcye93UECwOlSgFL24c5fyF7dqhaM/edit?pli=1#gid=1607194899)
+
+#### PREPARER MIGRATION ANGULAR 2
+- [angular-2-preparation-killing-controllers] (http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/)
