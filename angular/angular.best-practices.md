@@ -35,3 +35,6 @@ best scaffolding practices for generator-angular discussed [here] (https://githu
 
 #### PREPARER MIGRATION ANGULAR 2
 - [angular-2-preparation-killing-controllers] (http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/)
+
+#### MANAGING A MODEL LAYER
+- [angular-model-objects-with-javascript-classes] (https://medium.com/opinionated-angularjs/angular-model-objects-with-javascript-classes-2e6a067c73bc#.rscv8l8qv)
