@@ -7,3 +7,7 @@
 - [angular-performance-talk] (http://slidedeck.io/SmallImprovements/angular-performance-talk)
 - [ng-show, ng-hide, ng-if, ...] (http://realityonweb.com/angularjs/angularjs-conditional-display-using-ng-show-ng-hide-ng-if-ng-include-ng-switch/)
 - [optimizing angularjs] (http://blog.scalyr.com/2013/10/31/angularjs-1200ms-to-35ms/)
+
+#### one-time binding
+- [One time binding does not work with expression bindings : issue github angular] (https://github.com/angular/angular.js/issues/11416)
+- [One time binding : doc off AngularJs] (https://docs.angularjs.org/guide/expression#one-time-binding)
