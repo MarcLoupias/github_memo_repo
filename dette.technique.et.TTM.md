@@ -15,3 +15,6 @@
 - [refacto & techno debt is not a choice but a responsability] (http://www.velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2/)
 - [Technical deb vs ROI] (http://www.ontechnicaldebt.com/blog/technical-debt-vs-roi-your-code-may-be-elegant/)
 
+#### speed vs quality
+- [software-development-speed-vs-quality : from coderlifestyle.com] (http://coderlifestyle.com/software-development-speed-vs-quality-a-tech-shop-conundrum/)
+- [discussion reddit] (https://www.reddit.com/r/programming/comments/3eep2m/software_development_speed_vs_quality_a_tech_shop/)
