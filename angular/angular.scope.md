@@ -26,4 +26,4 @@
 - [the-three-watch-depths-of-angularjs] (http://teropa.info/blog/2014/01/26/the-three-watch-depths-of-angularjs.html)
 - Angular is doing references comparisons when checking model changes.
 - All binding done with {{}}, ng-model etc ... set a reference check.
-
+- [dont bind to primitives] (http://www.codelord.net/2014/05/10/understanding-angulars-magic-dont-bind-to-primitives/)
