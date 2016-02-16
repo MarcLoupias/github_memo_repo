@@ -27,3 +27,7 @@
 - Angular is doing references comparisons when checking model changes.
 - All binding done with {{}}, ng-model etc ... set a reference check.
 - [dont bind to primitives] (http://www.codelord.net/2014/05/10/understanding-angulars-magic-dont-bind-to-primitives/)
+
+#### Publishing data in the views
+- [Route Resolve and Controller Activate in AngularJS] (http://www.johnpapa.net/route-resolve-and-controller-activate-in-angularjs/)
+- [John Papa style guide : Controller Activation Promises] (https://github.com/johnpapa/angular-styleguide#style-y080)
