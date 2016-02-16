@@ -1,0 +1,2 @@
+- [WebSQL] (https://fr.wikipedia.org/wiki/Web_SQL_Database)
+- [IndexedDB] (https://fr.wikipedia.org/wiki/Indexed_Database_API)
