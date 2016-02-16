@@ -31,3 +31,4 @@
 #### Publishing data in the views
 - [Route Resolve and Controller Activate in AngularJS] (http://www.johnpapa.net/route-resolve-and-controller-activate-in-angularjs/)
 - [John Papa style guide : Controller Activation Promises] (https://github.com/johnpapa/angular-styleguide#style-y080)
+- [angular-styleguide: issue] (https://github.com/johnpapa/angular-styleguide/issues/661)
