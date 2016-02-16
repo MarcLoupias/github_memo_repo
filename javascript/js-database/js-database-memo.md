@@ -5,3 +5,4 @@
 #### normes
 - [WebSQL] (https://fr.wikipedia.org/wiki/Web_SQL_Database)
 - [IndexedDB] (https://fr.wikipedia.org/wiki/Indexed_Database_API)
+- [IndexedDB : developer.mozilla.org] (https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
