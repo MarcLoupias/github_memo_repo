@@ -8,3 +8,4 @@
 - [IndexedDB] (https://fr.wikipedia.org/wiki/Indexed_Database_API)
 - [IndexedDB : developer.mozilla.org] (https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - [IndexedDB : Basic concepts] (https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB)
+- [IndexedDB : Can I Use it ?] (http://caniuse.com/#feat=indexeddb)
