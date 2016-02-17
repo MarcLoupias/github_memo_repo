@@ -12,3 +12,6 @@
 #### one-time binding
 - [One time binding does not work with expression bindings : issue github angular] (https://github.com/angular/angular.js/issues/11416)
 - [One time binding : doc off AngularJs] (https://docs.angularjs.org/guide/expression#one-time-binding)
+
+#### production mode
+- [docs.angularjs.org : production mode] (https://docs.angularjs.org/guide/production)
