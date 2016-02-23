@@ -25,6 +25,8 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 
 - [Effet Tunnel] (http://christian.hohmann.free.fr/index.php/lean-en-conception-et-developpement/les-basiques-du-lean-en-conception-et-developpement/286-panique-en-developpement-effet-tunnel)
 
+- [Inversion of Control] (https://en.wikipedia.org/wiki/Inversion_of_control)
+
 #### normes
 - [ISO/CEI 29110 : ingénierie de systèmes et l'Ingénierie du logiciel - les processus de cycle de vie pour les très petits organismes] (https://fr.wikipedia.org/wiki/ISO/CEI_29110)
 - [ISO/CEI 15504 : cadre pour l'évaluation des processus] (https://fr.wikipedia.org/wiki/ISO/CEI_15504)
