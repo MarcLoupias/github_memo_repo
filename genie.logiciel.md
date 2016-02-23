@@ -3,6 +3,11 @@
 - [Définition wikipédia] (https://fr.wikipedia.org/wiki/G%C3%A9nie_logiciel)
 
 #### principes
+- [Separation of Concerns] (http://effectivesoftwaredesign.com/2012/02/05/separation-of-concerns/)
+
+> Découper un problème en plusieurs problèmes plus simples
+
+
 - [Loi de Brooks] (https://fr.wikipedia.org/wiki/Loi_de_Brooks)
 
 > Ajouter des personnes à un projet en retard accroît son retard
@@ -25,3 +30,7 @@
 
 #### auteurs
 - [Frederick Brooks] (https://fr.wikipedia.org/wiki/Frederick_Brooks)
+
+#### histoire
+- [Software crisis] (https://en.wikipedia.org/wiki/Software_crisis)
+Fin des années 70, les ordinateurs sont montés en puissance, donc permettent le développement de programmes plus puissants et plus complexe. Dégradation massive de la qualité du à la qualité. C'est le début des recherches en génie logiciel pour définir les bonnes pratiques du développement logiciel.
