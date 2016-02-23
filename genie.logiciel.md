@@ -15,6 +15,7 @@
 
 - [Principe de Pareto] (https://fr.wikipedia.org/wiki/Principe_de_Pareto)
 
+> 80 % des effets sont le produit de 20 % des causes
 
 #### normes
 - [ISO/CEI 29110 : ingénierie de systèmes et l'Ingénierie du logiciel - les processus de cycle de vie pour les très petits organismes] (https://fr.wikipedia.org/wiki/ISO/CEI_29110)
