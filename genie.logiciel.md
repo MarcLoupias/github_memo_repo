@@ -7,6 +7,7 @@
 
 > Découper un problème en plusieurs problèmes plus simples
 
+Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29), high [cohesion] (https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29).
 
 - [Loi de Brooks] (https://fr.wikipedia.org/wiki/Loi_de_Brooks)
 
