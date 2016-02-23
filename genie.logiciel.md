@@ -7,7 +7,8 @@
 
 > Découper un problème en plusieurs problèmes plus simples
 
-Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29), high [cohesion] (https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29).
+Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29), high [cohesion] (https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29), [maintainability] (http://en.wikipedia.org/wiki/Maintainability), [extensibility] (http://en.wikipedia.org/wiki/Extensibility), [reusability] (http://en.wikipedia.org/wiki/Reusability).
+
 
 - [Loi de Brooks] (https://fr.wikipedia.org/wiki/Loi_de_Brooks)
 
