@@ -8,6 +8,7 @@
 - [karma-htmlfile-reporter] (https://github.com/matthias-schuetz/karma-htmlfile-reporter)
 - [karma-junit-reporter] (https://github.com/karma-runner/karma-junit-reporter)
 - [karma & jenkins] (http://karma-runner.github.io/0.12/plus/jenkins.html)
+- [mockaroo : online mock file generator] (https://www.mockaroo.com/)
 
 #### best articles 
 - [angular-tips.com : unit-test] (http://angular-tips.com/blog/categories/unit-test/)
