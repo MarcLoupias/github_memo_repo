@@ -53,3 +53,123 @@ if(!key) {
   throw new Error('HistoryLRindexValueFactory.addIndexElement(key, data) error : key null or undefined');
 }
 ```
+
+#### Testing a directive : 
+
+```javascript
+(function () {
+    'use strict';
+
+    angular
+        .module('app')
+        .directive('exampleDirective', exampleDirective);
+
+    function exampleDirective() {
+        return {
+            restrict: 'E',
+            scope: {
+                stroke: "@",
+                fill: "@"
+            },
+            template: '<svg ng-attr-height="{{values.canvas}}" ng-attr-width="{{values.canvas}}" class="gray">' +
+            '<circle ng-attr-cx="{{values.center}}" ng-attr-cy="{{values.center}}"' +
+            'ng-attr-r="{{values.radius}}" stroke="{{stroke}}"' +
+            'stroke-width="3" fill="{{fill}}" />' +
+            '</svg>',
+            link: function(scope, element, attrs) {
+                var calculateValues = function(size) {
+                    var canvasSize = size * 2.5;
+
+                    scope.values = {
+                        canvas: canvasSize,
+                        radius: size,
+                        center: canvasSize / 2
+                    };
+                };
+
+                attrs.$observe('size', function(newSize) {
+                    calculateValues(parseInt(newSize, 10));
+                });
+            }
+        };
+    }
+
+}());
+```
+
+```javascript
+(function () {
+    'use strict';
+
+    describe('directive: example', function() {
+        var element, scope;
+
+        beforeEach(module('app'));
+
+        beforeEach(inject(function($rootScope, $compile) {
+            scope = $rootScope.$new();
+
+            element =
+                '<example-directive size="{{size}}" stroke="black" fill="blue"></example-directive>';
+
+            scope.size = 100;
+
+            element = $compile(element)(scope);
+            scope.$digest();
+        }));
+
+        describe('with the first given value', function() {
+            it("should compute the size to create other values", function() {
+                var isolated = element.isolateScope();
+                expect(isolated.values.canvas).toBe(250);
+                expect(isolated.values.center).toBe(125);
+                expect(isolated.values.radius).toBe(100);
+            });
+
+            it("should contain a svg tag with proper size", function() {
+                expect(element.find('svg').attr('height')).toBe('250');
+                expect(element.find('svg').attr('width')).toBe('250');
+            });
+
+            it("should contain a circle with proper attributes", function() {
+                expect(element.find('circle').attr('cx')).toBe('125');
+                expect(element.find('circle').attr('cy')).toBe('125');
+                expect(element.find('circle').attr('r')).toBe('100');
+                expect(element.find('circle').attr('stroke')).toBe('black');
+                expect(element.find('circle').attr('fill')).toBe('blue');
+            });
+        });
+
+        describe('when changing the initial value to a different one', function() {
+
+            beforeEach(function() {
+                scope.size = 160;
+                scope.$digest();
+            });
+
+            it("should compute the size to create other values", function() {
+                var isolated = element.isolateScope();
+                expect(isolated.values.canvas).toBe(400);
+                expect(isolated.values.center).toBe(200);
+                expect(isolated.values.radius).toBe(160);
+            });
+
+            it("should contain a svg tag with proper size", function() {
+                expect(element.find('svg').attr('height')).toBe('400');
+                expect(element.find('svg').attr('width')).toBe('400');
+            });
+
+            it("should contain a circle with proper attributes", function() {
+                expect(element.find('circle').attr('cx')).toBe('200');
+                expect(element.find('circle').attr('cy')).toBe('200');
+                expect(element.find('circle').attr('r')).toBe('160');
+                expect(element.find('circle').attr('stroke')).toBe('black');
+                expect(element.find('circle').attr('fill')).toBe('blue');
+            });
+        });
+
+    });
+
+}());
+```
+
