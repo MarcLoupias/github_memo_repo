@@ -6,14 +6,12 @@
 - Pas de manipulation du DOM ailleurs que dans une directive (compile ou link)
 - follow [angularjs-styleguide] (https://github.com/toddmotto/angularjs-styleguide)
 
-#### POINTS DE VUE
-- [Règles chez Paypal] (https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef#.epy69vvcr)
-
 #### DE JQUERY A ANGULARJS
 - [AngularJS-pour-les-developpeurs-jQuery] (http://bigint.fr/blog/2013-12-18/AngularJS-pour-les-developpeurs-jQuery)
 
 #### CODING STYLE
 - [angularjs-google-style] (https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
+- [Règles chez Paypal] (https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef#.epy69vvcr)
 - [Best-Practices] (https://github.com/angular/angular.js/wiki/Best-Practices)
 - [angular-styleguide (John Papa)] (https://github.com/johnpapa/angular-styleguide)
 - [angular-styleguide (Minko Gechev)] (https://github.com/mgechev/angularjs-style-guide)
