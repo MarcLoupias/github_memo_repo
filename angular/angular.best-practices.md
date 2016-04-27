@@ -6,6 +6,9 @@
 - Pas de manipulation du DOM ailleurs que dans une directive (compile ou link)
 - follow [angularjs-styleguide] (https://github.com/toddmotto/angularjs-styleguide)
 
+#### POINTS DE VUE
+- [Règles chez Paypal] (https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef#.epy69vvcr)
+
 #### DE JQUERY A ANGULARJS
 - [AngularJS-pour-les-developpeurs-jQuery] (http://bigint.fr/blog/2013-12-18/AngularJS-pour-les-developpeurs-jQuery)
 
