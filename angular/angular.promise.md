@@ -12,5 +12,5 @@
 - [Exploring Asynchronous Promise-Based Workflows] (http://www.bennadel.com/blog/2772-exploring-asynchronous-promise-based-workflows-in-angularjs.htm)
 - [You're Missing the Point of Promises] (https://blog.domenic.me/youre-missing-the-point-of-promises/)
 - [Automatic error handling in AngularJS] (https://technology.amis.nl/2014/10/06/automatic-error-handling-in-angularjs/)
-- [Lessons learned from PayPal Checkout project] (https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef#.epy69vvcr
+- [Lessons learned from PayPal Checkout project] (https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef#.epy69vvcr)
 - [Error handling in promises] (http://bahmutov.calepin.co/error-handling-in-promises.html)
