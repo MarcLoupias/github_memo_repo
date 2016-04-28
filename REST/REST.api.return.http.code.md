@@ -14,3 +14,5 @@
 - **415 Unsupported Media Type** - If incorrect content type was provided as part of the request
 - **422 Unprocessable Entity** - Used for validation errors
 - **429 Too Many Requests** - When a request is rejected due to rate limiting
+
+- [choosing-an-http-status-code] (http://racksburg.com/choosing-an-http-status-code/)
