@@ -14,7 +14,7 @@ Same-origin policy also applies to `XMLHttpRequest` and to `robots.txt`.
 - [developer.mozilla.org : CORS] (https://developer.mozilla.org/en-US/docs/HTTP/Access_control_CORS?redirectlocale=en-US&redirectslug=HTTP_access_control)
 - [developer.mozilla.org : Server-Side Access Control] (https://developer.mozilla.org/en-US/docs/Server-Side_Access_Control)
 - [github.com/angular : issue 5009] (https://github.com/angular/angular.js/issues/5009)
-- [enable-cors.org] (http://enable-cors.org/)
+- [enable-cors.org] (http://enable-cors.org/) **Very usefull**
 - [cors-why-and-how] (http://haanto.com/cors-why-and-how/)
 - [CORS & proxy in javascript front project] (http://blog.javascripting.com/2015/01/17/dont-hassle-with-cors/)
 
