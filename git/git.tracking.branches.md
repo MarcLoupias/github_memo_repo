@@ -1,5 +1,6 @@
 # Understanding Tracking Branches in Git
-[source] (http://www.lornajane.net/posts/2014/understanding-tracking-branches-in-git)
+- [source] (http://www.lornajane.net/posts/2014/understanding-tracking-branches-in-git)
+- [git-scm.com - Git-Branching-Remote-Branches **must read**] (https://git-scm.com/book/it/v2/Git-Branching-Remote-Branches)
 
 ## What is a tracking branch?
 
