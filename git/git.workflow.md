@@ -1,3 +1,3 @@
-[standard git workflow] (http://nvie.com/img/git-model@2x.png)
-
-[differents workflow comparison] (https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [standard git workflow] (http://nvie.com/img/git-model@2x.png)
+- [differents workflow comparison] (https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Understanding the GitHub Flow] (https://guides.github.com/introduction/flow/)
