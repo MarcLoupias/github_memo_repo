@@ -29,7 +29,7 @@ Goals : I want clean history, but that really means (a) clean and (b) history.
 - Don't merge _downstream_ (ie : push) code at random points either.
 
 ### Continuous Integration strategy
-Based on [Martin Fowler quotes] (http://martinfowler.com/bliki/FeatureToggle.html) in [gitlab documentation] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html).
+Based on [Martin Fowler quotes] (http://martinfowler.com/bliki/FeatureToggle.html) in [gitlab documentation] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html#do-not-order-commits-with-rebase).
 > If your feature branches commonly take more than a day of work, look into ways to create smaller units of work and/or use feature toggles.
 
 ##### pros
