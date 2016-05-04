@@ -3,3 +3,4 @@
 - [Understanding the GitHub Flow] (https://guides.github.com/introduction/flow/)
 - [GitLab workflow] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html)
 - [Shared repository workflow] (https://gist.github.com/seshness/3943237)
+- [Feature driven development] (https://en.wikipedia.org/wiki/Feature-driven_development)
