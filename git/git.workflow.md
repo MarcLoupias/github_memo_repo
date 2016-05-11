@@ -8,6 +8,13 @@
 - [Shared repository workflow] (https://gist.github.com/seshness/3943237)
 - [Feature driven development] (https://en.wikipedia.org/wiki/Feature-driven_development)
 
+## the 4 standard workflow
+
+- [Centralized workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
+- [Feature branch workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+- [Gitflow workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Forking workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+
 ## merging strategy
 In a **CI strategy** you can merge in master at the start of the day to prevent painful merges at a later time.
 In a **synchronization point strategy** you only merge in from well defined points in time, for example a tagged release.
