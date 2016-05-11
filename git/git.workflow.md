@@ -7,6 +7,7 @@
 - [GitLab workflow] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html)
 - [Shared repository workflow] (https://gist.github.com/seshness/3943237)
 - [Feature driven development] (https://en.wikipedia.org/wiki/Feature-driven_development)
+- [merge fast-forward vs no-ff] (http://stackoverflow.com/a/2850413)
 
 ## the 4 standards workflow
 
