@@ -4,7 +4,7 @@
 - [A successful git branching model] (http://nvie.com/posts/a-successful-git-branching-model/) ([diagram] (http://nvie.com/img/git-model@2x.png))
 - [differents workflow comparison] (https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Understanding the GitHub Flow] (https://guides.github.com/introduction/flow/)
-- [GitLab workflow] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html)
+- [GitLab workflow] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html) (Continuous Delivery oriented)
 - [Shared repository workflow] (https://gist.github.com/seshness/3943237)
 - [Feature driven development] (https://en.wikipedia.org/wiki/Feature-driven_development)
 - [merge fast-forward vs no-ff] (http://stackoverflow.com/a/2850413)
