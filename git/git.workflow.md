@@ -8,7 +8,7 @@
 - [Shared repository workflow] (https://gist.github.com/seshness/3943237)
 - [Feature driven development] (https://en.wikipedia.org/wiki/Feature-driven_development)
 
-## the 4 standard workflow
+## the 4 standards workflow
 
 - [Centralized workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
 - [Feature branch workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
