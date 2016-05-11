@@ -1,7 +1,7 @@
 # git workflow
 
 ## differents sources for brainstorming
-- [A successful git branching model] (http://nvie.com/posts/a-successful-git-branching-model/) [(diagram)] (http://nvie.com/img/git-model@2x.png)
+- [A successful git branching model] (http://nvie.com/posts/a-successful-git-branching-model/) ([diagram] (http://nvie.com/img/git-model@2x.png))
 - [differents workflow comparison] (https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Understanding the GitHub Flow] (https://guides.github.com/introduction/flow/)
 - [GitLab workflow] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html)
