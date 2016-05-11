@@ -5,6 +5,7 @@
 - [differents workflow comparison] (https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Understanding the GitHub Flow] (https://guides.github.com/introduction/flow/)
 - [GitLab workflow] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html) (Continuous Delivery oriented)
+- [Simple git flow] (http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/) (Continuous Delivery oriented)
 - [Shared repository workflow] (https://gist.github.com/seshness/3943237)
 - [Feature driven development] (https://en.wikipedia.org/wiki/Feature-driven_development)
 - [merge fast-forward vs no-ff] (http://stackoverflow.com/a/2850413)
