@@ -11,12 +11,13 @@
 - [merge fast-forward vs no-ff] (http://stackoverflow.com/a/2850413)
 - [Pull Request Merge Strategies: The Great Debate] (https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/)
 
-## the 4 standards workflow
+## the 5 standards workflow
 
 - [Centralized workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
 - [Feature branch workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 - [Gitflow workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Forking workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+- [Anti-Gitflow workflow] (http://endoflineblog.com/gitflow-considered-harmful)
 
 ## merging strategy
 In a **CI strategy** you can merge in master at the start of the day to prevent painful merges at a later time.
