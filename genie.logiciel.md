@@ -32,8 +32,34 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 - [ISO/CEI 29110 : ingénierie de systèmes et l'Ingénierie du logiciel - les processus de cycle de vie pour les très petits organismes] (https://fr.wikipedia.org/wiki/ISO/CEI_29110)
 - [ISO/CEI 15504 : cadre pour l'évaluation des processus] (https://fr.wikipedia.org/wiki/ISO/CEI_15504)
 
+## pratiques
+
+### continuous integration
+
+[wikipedia] (https://en.wikipedia.org/wiki/Continuous_integration)
+
+> Continuous integration (CI) is the practice, in software engineering, of merging all developer working copies to a shared mainline several times a day.
+
+### continuous delivery
+
+[wikipedia] (https://en.wikipedia.org/wiki/Continuous_delivery)
+
+> Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. It aims at building, testing, and releasing software faster and more frequently. The approach helps reduce the cost, time, and risk of delivering changes by allowing for more incremental updates to applications in production. A straightforward and repeatable deployment process is important for continuous delivery.
+
+### continuous deployment
+
+[wikipedia] (https://en.wikipedia.org/wiki/Continuous_delivery#Relationship_to_continuous_deployment)
+
+>  Continuous deployment means that every change is automatically deployed to production.
+
 ## auteurs
 - [Frederick Brooks] (https://fr.wikipedia.org/wiki/Frederick_Brooks)
+  - [OS/360] (https://fr.wikipedia.org/wiki/OS/360)
+  - Mythe du mois / homme
+- [Grady Booch] (https://en.wikipedia.org/wiki/Grady_Booch)
+  - Booch Method
+  - UML
+  - Continuous Integration
 
 ## histoire
 - [Software crisis] (https://en.wikipedia.org/wiki/Software_crisis)
