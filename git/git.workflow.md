@@ -10,8 +10,9 @@
 - [Feature driven development] (https://en.wikipedia.org/wiki/Feature-driven_development)
 - [merge fast-forward vs no-ff] (http://stackoverflow.com/a/2850413)
 - [Pull Request Merge Strategies: The Great Debate] (https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/)
+- [Pull request versus Merge request] (http://stackoverflow.com/questions/22199432/pull-request-vs-merge-request)
 
-## the 5 standards workflow
+## known git workflows
 
 - [Centralized workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
 - [Feature branch workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
