@@ -9,6 +9,7 @@
 - [Shared repository workflow] (https://gist.github.com/seshness/3943237)
 - [Feature driven development] (https://en.wikipedia.org/wiki/Feature-driven_development)
 - [merge fast-forward vs no-ff] (http://stackoverflow.com/a/2850413)
+- [Pull Request Merge Strategies: The Great Debate] (https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/)
 
 ## the 4 standards workflow
 
