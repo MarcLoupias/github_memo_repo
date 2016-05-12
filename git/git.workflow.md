@@ -12,13 +12,14 @@
 - [Pull Request Merge Strategies: The Great Debate] (https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/)
 - [Pull request versus Merge request] (http://stackoverflow.com/questions/22199432/pull-request-vs-merge-request)
 
-## known git workflows
+## git workflow list
 
 - [Centralized workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
 - [Feature branch workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 - [Gitflow workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Forking workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 - [Anti-Gitflow workflow] (http://endoflineblog.com/gitflow-considered-harmful)
+- [git DMZ workflow] (https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 
 ## merging strategy
 In a **CI strategy** you can merge in master at the start of the day to prevent painful merges at a later time.
