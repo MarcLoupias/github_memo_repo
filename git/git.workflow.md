@@ -20,8 +20,9 @@
 - [git DMZ workflow] (https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 - [GitLab workflow] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html) (Continuous Delivery oriented)
 - [github flow] (http://www.nicoespeon.com/fr/2013/08/quel-git-workflow-pour-mon-projet/#le-github-flow) (Continuous Delivery oriented)
+- [Shared repository workflow (same as github flow)] (https://gist.github.com/seshness/3943237) (Continuous Delivery oriented)
 - [Simple git flow] (http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/) (Continuous Delivery oriented)
-- [Shared repository workflow] (https://gist.github.com/seshness/3943237)
+
 
 ## merging strategy
 In a **CI strategy** you can merge in master at the start of the day to prevent painful merges at a later time.
