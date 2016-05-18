@@ -5,8 +5,6 @@
 - [differents workflow comparison] (https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Understanding the GitHub Flow] (https://guides.github.com/introduction/flow/)
 - [GitLab workflow] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html) (Continuous Delivery oriented)
-- [Simple git flow] (http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/) (Continuous Delivery oriented)
-- [Shared repository workflow] (https://gist.github.com/seshness/3943237)
 - [Feature driven development] (https://en.wikipedia.org/wiki/Feature-driven_development)
 - [merge fast-forward vs no-ff] (http://stackoverflow.com/a/2850413)
 - [Pull Request Merge Strategies: The Great Debate] (https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/)
@@ -20,6 +18,10 @@
 - [Forking workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 - [Anti-Gitflow workflow] (http://endoflineblog.com/gitflow-considered-harmful)
 - [git DMZ workflow] (https://gist.github.com/djspiewak/9f2f91085607a4859a66)
+- [GitLab workflow] (http://doc.gitlab.com/ee/workflow/gitlab_flow.html) (Continuous Delivery oriented)
+- [github flow] (http://www.nicoespeon.com/fr/2013/08/quel-git-workflow-pour-mon-projet/#le-github-flow) (Continuous Delivery oriented)
+- [Simple git flow] (http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/) (Continuous Delivery oriented)
+- [Shared repository workflow] (https://gist.github.com/seshness/3943237)
 
 ## merging strategy
 In a **CI strategy** you can merge in master at the start of the day to prevent painful merges at a later time.
