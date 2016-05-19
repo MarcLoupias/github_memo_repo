@@ -17,6 +17,12 @@ Composed by commits. Each node is a commit.
 Created by `git init` command (or by `git clone` if you want to copy an existing repository).
 Create a self-sufficient `.git` directory. It means that a simple zip on the repository root directory is enough to backup it.
 
+### bare repository
+A repository created with `git init` command is for **working**.
+A repository created with `git init --bare` command is for **sharing**.
+A bare repository doesn't contain a working directory nor a `.git` directory.
+Github, gitlab, etc ..., create a bare repository on their side.
+
 ### remote
 A remote is a distant repository (a repo on another computer).
 
