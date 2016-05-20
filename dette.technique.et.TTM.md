@@ -5,6 +5,7 @@
 - [Wikipedia : Dette technique] (https://fr.wikipedia.org/wiki/Dette_technique)
 - [blog.octo.com : maitriser sa dette technique] (http://blog.octo.com/maitriser-sa-dette-technique/)
 - [c2.com : Technical Debt] (http://www.c2.com/cgi/wiki?TechnicalDebt)
+- [cetic.be : Dette technique des développements] (https://www.cetic.be/Dette-technique-des-developpements)
 
 #### Time To Market
 
