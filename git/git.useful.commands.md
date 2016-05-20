@@ -22,8 +22,11 @@ git push -u origin mynewfeature
 # delete last commit (will not delete modifications, just the commit)
 git reset HEAD^
 
-# delete last commit (including last modifications)
-git reset --soft HEAD~1
+# delete the 3 last commits (will not delete modifications, just the commits)
+git reset --soft HEAD~3
+
+# delete the 3 last commits (including last modifications)
+git reset --hard HEAD~3
 
 # rename last commit msg
 git commit --amend -m "New commit message"
