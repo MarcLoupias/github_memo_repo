@@ -26,6 +26,14 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 
 - [Effet Tunnel] (http://christian.hohmann.free.fr/index.php/lean-en-conception-et-developpement/les-basiques-du-lean-en-conception-et-developpement/286-panique-en-developpement-effet-tunnel)
 
+- [Loi de Conway] (https://en.wikipedia.org/wiki/Conway's_law)
+
+> Les organisations à l’origine des architectures doivent refléter le système en lui-même.
+
+> organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
+
+> “The structure of a problem reflects the structure of the organization that created it.” Bill Corcoran’s version of Conway’s Law
+
 - [Inversion of Control] (https://en.wikipedia.org/wiki/Inversion_of_control)
 
 ## normes
