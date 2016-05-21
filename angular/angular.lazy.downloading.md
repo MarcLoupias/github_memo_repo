@@ -1,4 +1,10 @@
-#### angular lazy downloading
+# angular lazy downloading
+
+## webpack
+
+[Lazy loading avec WebPack & AngularJS] (http://blog.xebia.fr/2016/03/08/lazy-loading-avec-webpack-angularjs/)
+
+## requirejs
 
 Based on [blog article lazy downloading in angularjs] (http://ify.io/lazy-loading-in-angularjs/)
 See also [ocLazyLoad] (https://github.com/ocombe/ocLazyLoad)
