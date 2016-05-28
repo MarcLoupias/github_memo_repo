@@ -60,6 +60,20 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 
 >  Continuous deployment means that every change is automatically deployed to production.
 
+## méthodes
+
+### waterfall
+- [waterfall - généralités] (https://en.wikipedia.org/wiki/Waterfall_model)
+
+### cycle en V
+- [cycle en V - généralités] (https://en.wikipedia.org/wiki/V-Model_%28software_development%29)
+
+### agiles
+- [méthodes agiles - généralités] (https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)
+- [SCRUM] (https://fr.wikipedia.org/wiki/Scrum_%28m%C3%A9thode%29)
+- [kanban] (https://fr.wikipedia.org/wiki/Kanban_%28d%C3%A9veloppement%29)
+- [Extreme programming] (https://fr.wikipedia.org/wiki/Extreme_programming)
+
 ## auteurs
 - [Frederick Brooks] (https://fr.wikipedia.org/wiki/Frederick_Brooks)
   - [OS/360] (https://fr.wikipedia.org/wiki/OS/360)
