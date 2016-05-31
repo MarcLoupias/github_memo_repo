@@ -4,6 +4,10 @@
 
 ## dev frameworks
 
+### express
+- [tutorialspoint.com/nodejs : Node.js - RESTful API] (http://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm)
+- [expressjs.com : expressjs hello world] (http://expressjs.com/en/starter/hello-world.html)
+
 ### hapi
 - [github.com : hapijs/hapi] (https://github.com/hapijs/hapi)
 - [hapijs.com] (http://hapijs.com/)
