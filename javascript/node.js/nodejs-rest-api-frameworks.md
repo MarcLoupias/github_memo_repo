@@ -18,6 +18,8 @@ hapi enables developers to focus on writing reusable application logic instead o
 ### restify
 - [restify site off] (http://mcavage.me/node-restify/)
 
+> restify is a node.js module built specifically to enable you to build correct REST web services. It intentionally borrows heavily from express as that is more or less the de facto API for writing web applications on top of node.js.
+
 ### sails
 - [sailsjs.org] (http://sailsjs.org/)
 
