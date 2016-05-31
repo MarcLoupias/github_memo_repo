@@ -1,6 +1,7 @@
 # nodejs frameworks
 
-[Which Node.js framework is better for building a RESTful api?] (https://www.quora.com/Which-Node-js-framework-is-better-for-building-a-RESTful-api)
+- [Which Node.js framework is better for building a RESTful api?] (https://www.quora.com/Which-Node-js-framework-is-better-for-building-a-RESTful-api)
+- [strongloop.com : Comparing Express, Restify, hapi and LoopBack for building RESTful APIs] (https://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 
 ## dev frameworks
 
