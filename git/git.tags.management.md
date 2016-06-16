@@ -8,6 +8,9 @@ then push to remote master
 then push the tags to remote master :
 `git push --tags`
 
+#### LIST TAGS
+`git tag`
+
 #### DELETE TAG
 locally
 `git tag -d 0.0.1`
