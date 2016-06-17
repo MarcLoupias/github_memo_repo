@@ -1,6 +1,9 @@
 
 ### javascript best practices
 
+#### coding style
+- [coding style from airbnb] (https://github.com/airbnb/javascript)
+
 #### articles
 - [javascript_best_practises : qooxdoo.org] (http://qooxdoo.org/docs/general/javascript_best_practises)
 - [javascript : Douglas Crockford] (http://www.crockford.com/javascript/)
