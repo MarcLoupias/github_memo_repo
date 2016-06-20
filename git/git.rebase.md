@@ -119,3 +119,21 @@ If you have one you’d like to share, please do so! GitCasts also has a fantast
 as a whole that also covers some more complex examples of the command.
 [gitcasts] (http://gitcasts.com/)
 [videos] (http://gitcasts.com/posts/rebasing)
+
+---
+
+#### rebase for renaming
+
+Exemple, rebasing 2 lasts commits to rename commit message. Theses commits contains a `#` for github/gitlab issue linking.
+
+`git rebase -i HEAD~2`
+
+then use `edit` (and not `reword`) command.
+
+The rebase will stop at each commit. You will be able to use :
+
+`git commit --amend -m "#<issue_number> <your_commit_message>"`
+
+then the classical
+
+`git rebase --continue`
