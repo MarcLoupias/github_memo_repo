@@ -9,6 +9,9 @@
 
 Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29), high [cohesion] (https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29), [maintainability] (http://en.wikipedia.org/wiki/Maintainability), [extensibility] (http://en.wikipedia.org/wiki/Extensibility), [reusability] (http://en.wikipedia.org/wiki/Reusability).
 
+- Loi de Hofstadter
+
+> Il faut toujours plus de temps que prévu, même en tenant compte de la Loi de Hofstadter.
 
 - [Loi de Brooks] (https://fr.wikipedia.org/wiki/Loi_de_Brooks)
 
