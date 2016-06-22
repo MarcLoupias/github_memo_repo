@@ -13,6 +13,10 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 
 > Il faut toujours plus de temps que prévu, même en tenant compte de la Loi de Hofstadter.
 
+- Donald Knuth à propos de l'optimisation prématurée
+
+> Premature optimization is the root of all evil
+
 - [Loi de Brooks] (https://fr.wikipedia.org/wiki/Loi_de_Brooks)
 
 > Ajouter des personnes à un projet en retard accroît son retard
@@ -87,6 +91,7 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
   - Continuous Integration
 - [Gilles Roustan : Artisan développeur] (http://gb-prod.fr/2016/06/12/artisan-developpeur.html)
 - [William Durand : From STUPID to SOLID code] (http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
+- [Donald Knuth : Premature Optimization] (http://www.c2.com/cgi/wiki?PrematureOptimization)
 
 ## histoire
 - [Software crisis] (https://en.wikipedia.org/wiki/Software_crisis)
