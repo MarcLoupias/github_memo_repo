@@ -4,10 +4,10 @@
 #### Bootstrap d'une app web
 
 1. Le browser lève l'event [DOMContentLoaded] (https://developer.mozilla.org/en-US/docs/Web/Reference/Events/DOMContentLoaded ) durant ce step.
-Le moment exact est aléatoire, il n'attend pas le chargement des ressources liées à la page.
+Le moment exact est aléatoire, il n'attend pas le chargement des ressources liées à la page (css et images), le html et les js associés sont chargés cependant, on passe direct au point 3, le point 2 se joue en parallèle.
 
 2. Le browser lève l'event [load] (https://developer.mozilla.org/en-US/docs/Web/Reference/Events/load) en fin de step.
-Toutes les dépendances (de la page d'index) ont été téléchargées.
+Toutes les dépendances (de la page d'index) ont été téléchargées (non bloquant pour le démarrage angular).
 
 3. Démarrage Angular
   1. la méthode `angularInit(element, bootstrap)` est exécutée.
