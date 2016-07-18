@@ -15,3 +15,6 @@ développé par Microsoft
 
 #### documentation
 - [angular typescript quickstart] (https://angular.io/docs/js/latest/quickstart.html)
+
+#### best practices
+- [typescript - best practices] (http://definitelytyped.org/guides/best-practices.html)
