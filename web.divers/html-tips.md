@@ -1,10 +1,17 @@
 
-stocker une image directement dans le html
+# html tips
 
+## stocker une image directement dans le html
+
+```html
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABCCAMAAACb1/MKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkU2REIwQjlDOEE2NzExRTM4NDc3RUZBRkY1OEZBQTY2IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkU2REIwQjlEOEE2NzExRTM4NDc3RUZBRkY1OEZBQTY2Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RTZEQjBCOUE4QTY3MTFFMzg0NzdFRkFGRjU4RkFBNjYiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RTZEQjBCOUI4QTY3MTFFMzg0NzdFRkFGRjU4RkFBNjYiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6VTeR+AAAABlBMVEUAAAAAAAClZ7nPAAAAAXRSTlMAQObYZgAAACBJREFUeNrswTEBAAAAwqD1T20JT6AAAAAAAAD4mwADABmGAAHGlE9YAAAAAElFTkSuQmCC"
                      width="98" height="66" alt="Toto"/>
+```
 
+## donner une baseref à l'ensemble d'un site via une balise :
 
-donner une baseref à l'ensemble d'un site via une balise :
-http://www.w3schools.com/tags/tag_base.asp
+[tag_base : www.w3schools.com] (http://www.w3schools.com/tags/tag_base.asp)
 
+## plusieurs h1 dans une page
+
+[les-balises-h1-multiples-autorisees-en-html5 : blog.lesieur.name] (http://blog.lesieur.name/les-balises-h1-multiples-autorisees-en-html5/)
