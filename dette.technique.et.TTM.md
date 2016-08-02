@@ -19,3 +19,6 @@
 #### speed vs quality
 - [software-development-speed-vs-quality : from coderlifestyle.com] (http://coderlifestyle.com/software-development-speed-vs-quality-a-tech-shop-conundrum/)
 - [discussion reddit] (https://www.reddit.com/r/programming/comments/3eep2m/software_development_speed_vs_quality_a_tech_shop/)
+
+#### triangle qualité / cout / délai
+- [le-triangle-qualite-cout-delai : geek-directeur-technique.com] (http://www.geek-directeur-technique.com/2009/07/10/le-triangle-qualite-cout-delai)
