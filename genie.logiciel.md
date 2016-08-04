@@ -41,6 +41,26 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 
 > “The structure of a problem reflects the structure of the organization that created it.” Bill Corcoran’s version of Conway’s Law
 
+- Loi de Parkinson
+
+> Plus on a de temps pour réaliser une tâche, plus cette tâche prend du temps.
+
+- Loi de Murphy
+
+> Toute chose prend plus de temps qu'on ne l'avait prévu
+
+- Loi d'Illich
+
+> Au delà d'un certain seuil de travail, l'efficacité décroit
+
+- Loi de Carson
+
+> Faire un travail de façon continue prend moins de temps que de le faire en plusieurs fois
+
+- Loi de Fraisse
+
+> 1 heure n'est pas toujours égale à 1 heure
+
 - [Inversion of Control] (https://en.wikipedia.org/wiki/Inversion_of_control)
 
 ## normes
