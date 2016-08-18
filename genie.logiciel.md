@@ -87,6 +87,10 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 
 >  Continuous deployment means that every change is automatically deployed to production.
 
+### continus delivery / deployment and semver
+
+[Semantic Versioning with Continuous Deployment by Mark Seemann : blog.ploeh.dk] (http://blog.ploeh.dk/2013/12/10/semantic-versioning-with-continuous-deployment/)
+
 ## méthodes
 
 ### waterfall
