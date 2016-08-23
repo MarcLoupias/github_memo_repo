@@ -133,6 +133,6 @@ Fin des années 70, les ordinateurs sont montés en puissance, donc permettent l
 
 > Agile : Are we building the right thing ?
 
-> Craftmanship : Are we building the thing right ?
+> Craftsmanship : Are we building the thing right ?
 
 > from Software Craftsmanship by Sandro Mancuso @ Devoxx France 20??
