@@ -116,7 +116,7 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 - [Gilles Roustan : Artisan développeur] (http://gb-prod.fr/2016/06/12/artisan-developpeur.html)
 - [William Durand : From STUPID to SOLID code] (http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
 - [Donald Knuth : Premature Optimization] (http://www.c2.com/cgi/wiki?PrematureOptimization)
-- [Robert Cecil Martin : SOLID concept, Software Craftmanship] (https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
+- [Robert Cecil Martin (Uncle Bob) : SOLID concept, Software Craftmanship] (https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
 - [Sandro Mancuso : Software Craftmanship] (http://codurance.com/blog/author/sandro-mancuso/)
 
 ## histoire
@@ -136,3 +136,7 @@ Fin des années 70, les ordinateurs sont montés en puissance, donc permettent l
 > Craftsmanship : Are we building the thing right ?
 
 > from Software Craftsmanship by Sandro Mancuso @ Devoxx France 20??
+
+- [Demanding Professionalism in Software Development : Robert C. Martin (Uncle Bob)] (https://www.youtube.com/watch?v=p0O1VVqRSK0)
+- [Agility and Architecture : Robert C. Martin (Uncle Bob)] (https://www.youtube.com/watch?v=0oGpWmS0aYQ)
+- [Jim Coplien and Bob Martin Debate TDD] (https://www.youtube.com/watch?v=KtHQGs3zFAM)
