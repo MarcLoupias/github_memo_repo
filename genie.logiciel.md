@@ -128,4 +128,10 @@ Fin des années 70, les ordinateurs sont montés en puissance, donc permettent l
 
 - [manifesto.softwarecraftsmanship.org] (http://manifesto.softwarecraftsmanship.org/#/fr-fr)
 - [Software_craftsmanship : fr.wikipedia.org] (https://fr.wikipedia.org/wiki/Software_craftsmanship)
+- [Software Craftsmanship by Sandro Mancuso @ Devoxx France 20??] (https://www.youtube.com/watch?v=AQlsOPMKgBE)
 
+> Agile : Are we building the right thing ?
+
+> Craftmanship : Are we building the thing right ?
+
+> from Software Craftsmanship by Sandro Mancuso @ Devoxx France 20??
