@@ -116,6 +116,7 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 - [Gilles Roustan : Artisan développeur] (http://gb-prod.fr/2016/06/12/artisan-developpeur.html)
 - [William Durand : From STUPID to SOLID code] (http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
 - [Donald Knuth : Premature Optimization] (http://www.c2.com/cgi/wiki?PrematureOptimization)
+- [Robert Cecil Martin : SOLID concept, Software Craftmanship] (https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
 
 ## histoire
 - [Software crisis] (https://en.wikipedia.org/wiki/Software_crisis)
