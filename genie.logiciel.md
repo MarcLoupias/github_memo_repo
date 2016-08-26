@@ -108,7 +108,7 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 ## auteurs
 - [Frederick Brooks] (https://fr.wikipedia.org/wiki/Frederick_Brooks)
   - [OS/360] (https://fr.wikipedia.org/wiki/OS/360)
-  - Mythe du mois / homme
+  - [Mythe du mois / homme] (https://fr.wikipedia.org/wiki/Le_Mythe_du_mois-homme)
 - [Grady Booch] (https://en.wikipedia.org/wiki/Grady_Booch)
   - Booch Method
   - UML
