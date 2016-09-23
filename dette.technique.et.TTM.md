@@ -22,3 +22,6 @@
 
 #### triangle qualité / cout / délai
 - [le-triangle-qualite-cout-delai : geek-directeur-technique.com] (http://www.geek-directeur-technique.com/2009/07/10/le-triangle-qualite-cout-delai)
+
+#### SQALE : Software Quality Assessment based on Lifecycle Expectations
+- [sqale.org] (http://www.sqale.org/) Permet d'évaluer la qualité du code. Utilisé par [SonarQube] (http://www.sonarsource.com/).
