@@ -116,7 +116,9 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 - [Gilles Roustan : Artisan développeur] (http://gb-prod.fr/2016/06/12/artisan-developpeur.html)
 - [William Durand : From STUPID to SOLID code] (http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
 - [Donald Knuth : Premature Optimization] (http://www.c2.com/cgi/wiki?PrematureOptimization)
-- [Robert Cecil Martin (Uncle Bob) : SOLID concept, Agile Manifesto Software Craftmanship] (https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
+- [Robert Cecil Martin (Uncle Bob)] (https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
+  - SOLID concept, Agile Manifesto Software Craftmanship
+  - [Clean Code] (http://alm.developpez.com/livres/index/?page=Les-livres-en-francais#L2744023272)
 - [Sandro Mancuso : Software Craftmanship] (http://codurance.com/blog/author/sandro-mancuso/)
 - [Martin Fowler : Agile Manifesto, CI] (https://fr.wikipedia.org/wiki/Martin_Fowler) [Refactoring] (https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=asap_bc?ie=UTF8)
 
