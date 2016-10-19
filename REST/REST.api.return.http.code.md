@@ -16,3 +16,6 @@
 - **429 Too Many Requests** - When a request is rejected due to rate limiting
 
 - [choosing-an-http-status-code] (http://racksburg.com/choosing-an-http-status-code/)
+
+#### 
+- [http-status-codes : www.iana.org] (http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
