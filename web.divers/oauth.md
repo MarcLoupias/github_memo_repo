@@ -7,6 +7,7 @@
 - [rfc6749 - The OAuth 2.0 Authorization Framework : tools.ietf.org] (https://tools.ietf.org/html/rfc6749)
 - [rfc6750 - The OAuth 2.0 Authorization Framework: Bearer Token Usage : tools.ietf.org] (https://tools.ietf.org/html/rfc6750)
 - [Angularjs + OAuth + Play 2.0] (http://stackoverflow.com/questions/12319385/angularjs-oauth-play-2-0)
+- [Comprendre OAuth2 : http://www.bubblecode.net] (http://www.bubblecode.net/fr/2016/01/22/comprendre-oauth2/)
 
 #### diff oAuth / OpenID
 -  OAuth is about giving access to your stuff without sharing your identity at all
