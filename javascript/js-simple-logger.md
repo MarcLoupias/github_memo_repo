@@ -1,3 +1,5 @@
+# js-simple-logger
+
 ```javascript
 window.simpleLogger = {
 
