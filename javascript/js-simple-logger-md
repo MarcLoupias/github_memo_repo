@@ -1,3 +1,4 @@
+```javascript
 window.simpleLogger = {
 
     loggers: [],
@@ -81,3 +82,4 @@ SimpleLogger.prototype.error = function (message) {
         this.error = window.console.error.bind(window.console, '[ERROR] [' + this.name + '] - %s');
     }
 };
+```
