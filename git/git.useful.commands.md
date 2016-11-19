@@ -52,9 +52,14 @@ git merge --abort
 # merge conflict in favor of "their" changes (origin changes)
 git merge --strategy-option theirs
 
-# cherr-pick a specific commit from one branch to another 
+# cherry-pick a specific commit from one branch to another 
 # (https://ariejan.net/2010/06/10/cherry-picking-specific-commits-from-another-branch/)
 # here master is the targeted branch (ie : where the commit will go)
 git checkout master
 git cherry-pick 1234abcd
+
+# removing a directory from git tracking without deleting it locally
+# first, add the folder to the .gitignore file
+# then
+git rm -r --cached path_to_your_folder/
 ```
