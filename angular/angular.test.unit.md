@@ -15,7 +15,7 @@
 
 #### best lib (ng-describe)
 - [ng-describe] (https://github.com/kensho/ng-describe)
-- Avec ng-describe, quand on mock une constante utilisée pour stocker une lib externe ( cf [Y240] (https://github.com/johnpapa/angular-styleguide#style-y240) ), mocker la constante ne suffit pas, il faut mocker chaque fonction utilisée en lui réattribuant la fonction initiale.
+- Avec ng-describe, quand on mock une constante utilisée pour stocker une lib externe ( cf [Y240] (https://github.com/johnpapa/angular-styleguide/tree/master/a1#style-y240) ), mocker la constante ne suffit pas, il faut mocker chaque fonction utilisée en lui réattribuant la fonction initiale.
 On injecte par IIFE la vrai lib donc on réattribue au mock les fonctions utilisées. Ou pas.
 
 #### tests avec $http
