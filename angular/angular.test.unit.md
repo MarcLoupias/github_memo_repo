@@ -18,6 +18,12 @@
 - Avec ng-describe, quand on mock une constante utilisée pour stocker une lib externe ( cf [Y240] (https://github.com/johnpapa/angular-styleguide/tree/master/a1#style-y240) ), mocker la constante ne suffit pas, il faut mocker chaque fonction utilisée en lui réattribuant la fonction initiale.
 On injecte par IIFE la vrai lib donc on réattribue au mock les fonctions utilisées. Ou pas.
 
+Articles de l'auteur de la lib :
+- [Unit testing AngularJS code in record time using ng-describe : glebbahmutov.com/](https://glebbahmutov.com/blog/1-2-3-tested/)
+- [Slides AngularJS NYC meetup in August 2015](http://slides.com/bahmutov/ng-describe#/)
+- [testing-angularjs-under-node : glebbahmutov.com/](https://glebbahmutov.com/blog/testing-angularjs-under-node/)
+- [testing-angular-async-stuff: glebbahmutov.com](https://glebbahmutov.com/blog/testing-angular-async-stuff/)
+
 #### tests avec $http
 - [les-tests-angularjs-le-guide-de-a-a-z] (http://blog.occitech.fr/2013/10/les-tests-angularjs-le-guide-de-a-a-z-partie-1-les-tests-unitaires/)
 
