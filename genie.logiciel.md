@@ -91,6 +91,10 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 
 [Semantic Versioning with Continuous Deployment by Mark Seemann : blog.ploeh.dk] (http://blog.ploeh.dk/2013/12/10/semantic-versioning-with-continuous-deployment/)
 
+### feature flipping
+
+[feature-flipping : blog.octo.com](http://blog.octo.com/feature-flipping/)
+
 ## méthodes
 
 ### waterfall
