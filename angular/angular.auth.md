@@ -6,3 +6,6 @@
 
 #### articles on auth in angular
 - [Techniques for authentication in AngularJS applications] (https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec#.c7cabdkly)
+
+#### articles securing SPA
+- [secure-single-page-app-problem : stormpath.com] (https://stormpath.com/blog/secure-single-page-app-problem)
