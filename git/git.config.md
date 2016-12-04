@@ -4,7 +4,7 @@
 
 ## config files
 
-### windows
+### config files on windows systems
 
 the order in which Git for Windows sources configuration information is as follows:
 
@@ -82,3 +82,13 @@ file:.git/config        core.bare=false
 [gitattributes : git-scm.com](https://git-scm.com/docs/gitattributes)
 
 For line endings management, check [text](https://git-scm.com/docs/gitattributes#_effects) option.
+
+### changing config values via CLI
+
+#### pattern
+
+`git config <scope> <property> <value>`
+
+#### example
+
+`git config --global user.name "Robert Duchmoul"`
