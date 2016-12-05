@@ -36,3 +36,17 @@ Theses Engines are used in browsers or server side.
 
 - [kangax.github.io](http://kangax.github.io/compat-table)
 - [ES6 Features list over ES5](http://es6-features.org)
+
+### Transpilers
+
+#### Babel
+
+[Babel](https://babeljs.io/) allows you to write your code in ES6, it will generate ES5 compliant code.
+
+### Javascript superset
+
+[Understanding ES5, ES2015 and TypeScript, March 2016 : johnpapa.net](https://johnpapa.net/es5-es2015-typescript/)
+
+#### TypeScript
+
+[TypeScript](http://www.typescriptlang.org/) include ES6 specs but it enhances it with more features.
