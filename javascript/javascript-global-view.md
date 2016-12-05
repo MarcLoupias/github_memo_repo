@@ -24,7 +24,7 @@ Theses Engines are used in browsers or server side.
 
 ### Engines and browsers usage
 
-| Engine | Browsers |
+| Engine | Browser/Server |
 | ------ | -------- |
 | V8 | Chrome, NodeJS |
 | SpiderMonkey | Gecko (Firefox) |
