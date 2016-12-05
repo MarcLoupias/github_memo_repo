@@ -45,7 +45,7 @@ Theses Engines are used in browsers or server side.
 
 ### Javascript superset
 
-[Understanding ES5, ES2015 and TypeScript, March 2016 : johnpapa.net](https://johnpapa.net/es5-es2015-typescript/)
+[Understanding ES5, ES2015 and TypeScript, 2016/03/20 : johnpapa.net](https://johnpapa.net/es5-es2015-typescript/)
 
 #### TypeScript
 
