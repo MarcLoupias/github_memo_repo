@@ -4,4 +4,9 @@
 
 #### Others
 - [precomposing a spa] (http://www.analog-ni.co/precomposing-a-spa-may-become-the-holy-grail-to-seo)
+- [ajax-seo](https://github.com/liuwenchao/ajax-seo)
+- [Webmaster Central Help Forum : AngularJS SEO best practice: to prerender or not to? (2016/02)](https://productforums.google.com/forum/#!topic/webmasters/M8DKibaGLPI)
+
+#### Use case
+- [how-to-improve-seo-in-angularjs-applications : wijmo.com](http://wijmo.com/blog/how-to-improve-seo-in-angularjs-applications/)
 
