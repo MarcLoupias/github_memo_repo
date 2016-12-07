@@ -16,6 +16,8 @@ http://www.definitions-marketing.com/glossaire/le-seo-en-50-def/
 
 https://support.google.com/webmasters/answer/35769?hl=fr
 
+[mobilegeddon](http://www.definitions-marketing.com/definition/mobilegeddon/)
+
 ## Techniques
 
 [sitemap.xml](https://www.sitemaps.org/index.html)
