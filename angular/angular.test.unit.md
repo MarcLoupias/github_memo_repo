@@ -24,6 +24,12 @@ Articles de l'auteur de la lib :
 - [testing-angularjs-under-node : glebbahmutov.com/](https://glebbahmutov.com/blog/testing-angularjs-under-node/)
 - [testing-angular-async-stuff: glebbahmutov.com](https://glebbahmutov.com/blog/testing-angular-async-stuff/)
 
+#### intégration jasmine dans webstorm
+
+http://stackoverflow.com/questions/8108461/how-can-i-get-webstorm-to-recognize-jasmine-methods
+
+Selection jasmine definitly typed : http://stackoverflow.com/a/36864225
+
 #### tests avec $http
 - [les-tests-angularjs-le-guide-de-a-a-z] (http://blog.occitech.fr/2013/10/les-tests-angularjs-le-guide-de-a-a-z-partie-1-les-tests-unitaires/)
 
