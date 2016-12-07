@@ -23,3 +23,5 @@ https://support.google.com/webmasters/answer/35769?hl=fr
 [robots.txt](https://developers.google.com/webmasters/control-crawl-index/docs/faq)
 
 [html valide](https://validator.w3.org/)
+
+[search-optimization : developers.google.com](https://developers.google.com/web/fundamentals/discovery-and-monetization/search-optimization/)
