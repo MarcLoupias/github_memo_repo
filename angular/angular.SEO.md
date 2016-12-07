@@ -9,4 +9,4 @@
 
 #### Use case
 - [how-to-improve-seo-in-angularjs-applications : wijmo.com](http://wijmo.com/blog/how-to-improve-seo-in-angularjs-applications/)
-
+- [The Basics of JavaScript Framework SEO in AngularJS: builtvisible.com(2016/06)](https://builtvisible.com/javascript-framework-seo/)
