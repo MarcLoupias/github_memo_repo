@@ -18,8 +18,8 @@ https://support.google.com/webmasters/answer/35769?hl=fr
 
 ## Techniques
 
-https://www.sitemaps.org/index.html
+[sitemap.xml](https://www.sitemaps.org/index.html)
 
-robots.txt : https://developers.google.com/webmasters/control-crawl-index/docs/faq
+[robots.txt](https://developers.google.com/webmasters/control-crawl-index/docs/faq)
 
-html valide : https://validator.w3.org/
+[html valide](https://validator.w3.org/)
