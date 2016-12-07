@@ -27,3 +27,7 @@ https://support.google.com/webmasters/answer/35769?hl=fr
 [html valide](https://validator.w3.org/)
 
 [search-optimization : developers.google.com](https://developers.google.com/web/fundamentals/discovery-and-monetization/search-optimization/)
+
+[Comment placer ses mots-clés dans un site web ? : www.axenet.fr](http://www.axenet.fr/comment-integrer-mots-cles-site-web/)
+
+[10 étapes pour créer un site optimisé](http://www.axenet.fr/creation-site-seo-friendly/)
