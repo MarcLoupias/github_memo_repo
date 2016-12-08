@@ -23,9 +23,9 @@ A TDD cycle is composed of three, iterative phases.
 - Green: Write production code; the unit test passes.
 - Blue: Refactor the code [11]; the unit test passes.
 
-[The Cycles of TDD : http://blog.cleancoder.com (2014/12)](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+[The Cycles of TDD : blog.cleancoder.com (2014/12)](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 
-[The Pragmatics of TDD : https://8thlight.com(2013/03)](https://8thlight.com/blog/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)
+[The Pragmatics of TDD : 8thlight.com (2013/03)](https://8thlight.com/blog/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)
 
 ### Test Last Development (TLD)
 
