@@ -61,6 +61,12 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 
 > 1 heure n'est pas toujours égale à 1 heure
 
+- [Loi de Demeter](https://fr.wikipedia.org/wiki/Loi_de_D%C3%A9m%C3%A9ter)
+
+> Ne parlez qu'à vos amis immédiats
+
+La notion fondamentale est qu'un objet devrait faire aussi peu d'hypothèses que possible à propos de la structure de quoi que ce soit d'autre, y compris ses propres sous-composants.
+
 - [Inversion of Control] (https://en.wikipedia.org/wiki/Inversion_of_control)
 
 ## normes
