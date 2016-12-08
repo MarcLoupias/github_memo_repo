@@ -67,6 +67,8 @@ Low [coupling] (https://en.wikipedia.org/wiki/Coupling_%28computer_programming%2
 
 La notion fondamentale est qu'un objet devrait faire aussi peu d'hypothèses que possible à propos de la structure de quoi que ce soit d'autre, y compris ses propres sous-composants.
 
+[Exemple concret](http://misko.hevery.com/2008/07/18/breaking-the-law-of-demeter-is-like-looking-for-a-needle-in-the-haystack/) par Misko Hevery
+
 - [Inversion of Control] (https://en.wikipedia.org/wiki/Inversion_of_control)
 
 ## normes
