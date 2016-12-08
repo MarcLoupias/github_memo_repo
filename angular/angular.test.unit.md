@@ -36,6 +36,9 @@ Selection jasmine definitly typed : http://stackoverflow.com/a/36864225
 #### tests de services
 - [how-do-i-test-an-angularjs-service-with-jasmine] (http://stackoverflow.com/questions/13013772/how-do-i-test-an-angularjs-service-with-jasmine)
 
+#### tests de directives 
+- [angular-testing-tips-testing-directives](https://www.sitepoint.com/angular-testing-tips-testing-directives/)
+
 #### Dependencies mocking
 - [mocking-angular-module-dependencies] (http://stackoverflow.com/questions/17554727/mocking-angular-module-dependencies-in-jasmine-unit-tests)
 - [injecting-a-mock-into-an-angularjs-service] (http://stackoverflow.com/questions/14773269/injecting-a-mock-into-an-angularjs-service/18756347#18756347)
