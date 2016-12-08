@@ -22,7 +22,7 @@
 
 Also thanks to Blaine R Southam who has turned it into a pdf book.
 
-### Flaw 1: Constructor does Real Work
+### Flaw 1: [Constructor does Real Work](http://misko.hevery.com/code-reviewers-guide/flaw-constructor-does-real-work/)
 
 **Warning Signs**
 
@@ -34,7 +34,7 @@ Also thanks to Blaine R Southam who has turned it into a pdf book.
 - Code does complex object graph construction inside a constructor rather than using a factory or builder
 - Adding or using an initialization block
 
-### Flaw 2: Digging into Collaborators
+### Flaw 2: [Digging into Collaborators](http://misko.hevery.com/code-reviewers-guide/flaw-digging-into-collaborators/)
 
 **Warning Signs**
 
@@ -42,7 +42,7 @@ Also thanks to Blaine R Southam who has turned it into a pdf book.
 - Law of Demeter violation: method call chain walks an object graph with more than one dot (.)
 - Suspicious names: context, environment, principal, container, or manager
 
-### Flaw 3: Brittle Global State & Singletons
+### Flaw 3: [Brittle Global State & Singletons](http://misko.hevery.com/code-reviewers-guide/flaw-brittle-global-state-singletons/)
 
 **Warning Signs**
 
@@ -52,7 +52,7 @@ Also thanks to Blaine R Southam who has turned it into a pdf book.
 - Adding or using registries
 - Adding or using service locators
 
-### Flaw 4: Class Does Too Much
+### Flaw 4: [Class Does Too Much](http://misko.hevery.com/code-reviewers-guide/flaw-class-does-too-much/)
 
 **Warning Signs**
 
