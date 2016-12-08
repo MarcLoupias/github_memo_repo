@@ -20,8 +20,6 @@
 
 [Guide: Writing Testable Code : misko.hevery.com](misko.hevery.com/code-reviewers-guide/)
 
-Also thanks to Blaine R Southam who has turned it into a pdf book.
-
 ### Flaw 1: [Constructor does Real Work](http://misko.hevery.com/code-reviewers-guide/flaw-constructor-does-real-work/)
 
 **Warning Signs**
