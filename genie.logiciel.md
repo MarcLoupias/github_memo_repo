@@ -103,6 +103,8 @@ La notion fondamentale est qu'un objet devrait faire aussi peu d'hypothèses que
 
 [feature-flipping : blog.octo.com](http://blog.octo.com/feature-flipping/)
 
+[feature flags explained : featureflags.io](http://featureflags.io/feature-flags/) (very good link, with lots of use case, eg : early access)
+
 ## méthodes
 
 ### waterfall
