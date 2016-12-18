@@ -15,3 +15,59 @@
 ## plusieurs h1 dans une page
 
 [les-balises-h1-multiples-autorisees-en-html5 : blog.lesieur.name] (http://blog.lesieur.name/les-balises-h1-multiples-autorisees-en-html5/)
+
+## Semantic html
+
+[A Look Into Proper HTML5 Semantics : www.hongkiat.com](http://www.hongkiat.com/blog/html-5-semantics/)
+[HTML Living Standard — Last Updated 17 December 2016](https://html.spec.whatwg.org/multipage/semantics.html)
+
+Proper semantics means :
+- a more searchable content that leads to a better search engine ranking. 
+- increase accessibility, as assistive technologies such as screen readers can better interpret the meaning of our content.
+
+### Semantic Elements Before HTML5
+
+- `<body></body>`
+- `<form></form>`
+- `<img/>`
+- `<table></table>`
+- `<a></a>`
+- `<ul><li></li></ul>`
+- `<p></p>`
+- `<h1></h1>`
+- `<h2></h2>`
+- `<hN></hN>`
+- ...
+
+### Non-Semantic Elements
+
+- `<div></div>`
+- `<span></span>`
+
+### Text Semantics in HTML5
+
+- `<strong></strong>`
+- `<em></em>`
+- `<div></div>`
+
+### Document Outline in HTML5
+
+- `<header></header>` every sectioning element (body, article, section, nav and aside) can have its own header and footer
+- `<footer></footer>` every sectioning element (body, article, section, nav and aside) can have its own header and footer
+- `<section></section>` for sections grouped around a specific theme
+- `<article></article>` for complete or self-contained compositions such as a blog post or a widget
+- `<nav></nav>` for navigation blocks
+- `<aside></aside>` for complementary content such as sidebars.
+
+### Tips For Semantically Structured Content
+
+- The outermost sectioning element is always the `<body></body>` tag.
+- Sections in HTML5 can be nested.
+- Each section has its own heading hierarchy. Each of them can have an `h1` tag.
+- While the document outline is primarily defined by the 5 sectioning elements, it also needs proper headings for each section.
+- It’s always the first heading element (let it be h1 or a lower rank heading tag) that defines the heading of the given section. The following heading tags inside the same section need to be relative to this. (If the first heading is an `h3` inside a sectioning element, don’t put an `h3` after that.)
+- The sections defined by the `<nav></nav>`, and the `<aside></aside>` tags don’t belong to the main outline of the HTML document, they are usually not rendered initially by assistive technologies.
+- Each section (`body`, `section`, `article`, `aside`, `nav`) can have their own `<header></header>` and `<footer></footer>` tags, that defines the `header` (such as logo, author’s name, dates, meta info, etc.) and the `footer` (copyright, notes, links, etc.) of that section.
+
+[image::http://media02.hongkiat.com/html-5-semantics/document-outline-example.jpg]
+
