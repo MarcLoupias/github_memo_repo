@@ -215,7 +215,72 @@ Source : [the-best-ux-ui-designer-tools-resources-blogs-books-collection : mediu
 
 ## Usability Testing Tools
 
+- [Optimizely](https://www.optimizely.com/)
+> Focuses on one specific type of test, A/B testing.
+
+- [UserTesting](https://www.usertesting.com/)
+> Allows to get videos of real people speaking their thoughts.
+
+- [UsabilityTools](http://usabilitytools.com/)
+> Helps you empathize with your users and shows you what’s working and what’s not.
+
+- [Usabilityhub](https://usabilityhub.com/)
+> Remote user testing to help you make confident design decisions.
+
+- [Usabilla](https://usabilla.com/)
+> One of the most comprehensive user experience packages.
+
+- [UserFeel](http://www.userfeel.com/)
+> Offers thorough usability testing in a wide range of languages.
+
+- [GTMetrix](https://gtmetrix.com/)
+> A free tool that assesses the causes of site slowdown.
+
+- [UserEcho](http://userecho.com/pricing/)
+> Allows you to survey customers and provide support.
+
+- [iPerceptions](https://www.iperceptions.com/)
+> Lets you survey web visitors by inviting them at the start of their visit to take a survey at the end.
+
+- [Loop11](http://www.loop11.com/)
+> Improve usability of your website through scenario based tests.
+
+- [Attensee](http://www.attensee.com/)
+> First impression testing for ux designers.
+
+- [WhatUsersDo](http://whatusersdo.com/)
+> Videos of real people speaking their thoughts as they use your website or app.
+
 ## Collaboration Tools
+
+- [Join.me](https://www.join.me/)
+> Free screen sharing from your browser, with video conferencing and unlimited audio calling.
+
+- [Trello](https://trello.com/)
+> Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
+
+- [Red Pen](https://redpen.io/)
+> No matter where your colleagues are in the world, if you work with visuals it will help you collaborate with your team effortlessly.
+
+- [Murally](https://mural.co/)
+> Online whiteboard designed to visually organize ideas.
+
+- [Slack](https://slack.com/)
+> Slack gathers the most common communication tools like Google Drive, Twitter or Dropbox in one place, so the entire team is kept up-to-date.
 
 ## Survey Tools
 
+- [Google forms](https://www.google.co.uk/forms/about/)
+> A great way to quickly create online surveys for free.
+
+- [Free Survey Creator](https://freesurveycreator.com/)
+> Make a free survey to know your users.
+
+- [SurveyMonkey](https://www.surveymonkey.com/)
+> Create and publish online surveys in minutes, and view results graphically and in real time.
+
+- [SurveyGizmo](http://www.surveygizmo.com/)
+> SurveyGizmo is an advanced (but easy to use) online survey software tool.
+
+- [Typeform](https://www.typeform.com/)
+> Build beautiful, engaging, and conversational online forms, surveys, quizzes, landing pages, and much more with Typeform.
