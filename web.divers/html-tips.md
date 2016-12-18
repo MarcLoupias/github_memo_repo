@@ -16,6 +16,10 @@
 
 [les-balises-h1-multiples-autorisees-en-html5 : blog.lesieur.name] (http://blog.lesieur.name/les-balises-h1-multiples-autorisees-en-html5/)
 
+## HTML and CSS components every 2016 modern page should have
+
+[source : www.quora.com](https://www.quora.com/What-are-the-main-HTML-and-CSS-components-every-2016-modern-page-should-have)
+
 ## Semantic html
 
 [A Look Into Proper HTML5 Semantics : www.hongkiat.com](http://www.hongkiat.com/blog/html-5-semantics/)
