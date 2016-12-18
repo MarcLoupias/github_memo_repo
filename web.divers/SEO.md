@@ -31,3 +31,5 @@ https://support.google.com/webmasters/answer/35769?hl=fr
 [Comment placer ses mots-clés dans un site web ? : www.axenet.fr](http://www.axenet.fr/comment-integrer-mots-cles-site-web/)
 
 [10 étapes pour créer un site optimisé](http://www.axenet.fr/creation-site-seo-friendly/)
+
+[10 Free Yet Overlooked Google Tools For SEO Professionals : neilpatel.com](http://neilpatel.com/2016/11/05/10-free-yet-overlooked-google-tools-for-seo-professionals/)
