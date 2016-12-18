@@ -165,7 +165,53 @@ Source : [the-best-ux-ui-designer-tools-resources-blogs-books-collection : mediu
 
 ## Free UX & UI Books
 
+- [50 User Experience Best Practices](http://userexperiencedesigns.com/)
+
+- [UX Design Trends 2015 & 2016](https://www.uxpin.com/studio/ebooks/ux-design-trends-2015-2016-digital-products/)
+
+- [Web UI Design Best Practices](https://www.uxpin.com/studio/ebooks/web-ui-design-best-practices/)
+
+- [Magic of CSS](http://adamschwartz.co/magic-of-css/)
+
+- [Bright Ideas for User Experience Designers](http://userfocus.co.uk/ebooks/uxdesign.html)
+
+- [The UX Reader](http://theuxreader.com/products/the-ux-reader-ebook)
+
+- [Don’t Make Me Think](https://www.amazon.co.uk/Dont-Make-Me-Think-Usability/dp/0321965515?ie=UTF8&*Version*=1&*entries*=0)
+
+- [UX Storytellers: Connecting the Dots](http://uxstorytellers.blogspot.jp/2009/01/ux-storytellers-connecting-dots.html)
+
+- [UX Design for Startups](https://www.uxpin.com/studio/ebooks/ux-design-for-startups/)
+
+- [Web Design Book of Trends](https://www.uxpin.com/studio/ebooks/web-ui-design-trends-2015-2016/?q=/ebooks/web-design-book-of-trends-2013-2014/)
+
+- [The Guide to Wireframing](https://www.uxpin.com/studio/ebooks/guide-to-wireframing/)
+
 ## UX Tools for Mind Mapping and Flowcharts
+
+- [MindMapple](http://www.mindmaple.com/Default.aspx)
+> Pre-loaded with themes and templates.
+
+- [NovaMind](https://www.novamind.com/)
+> A cross-platform brainstorming software.
+
+- [MindManager](https://www.mindjet.com/mindmanager/)
+> One of the best mind mapping software application developed by Mindjet.
+
+- [SmartDraw](https://www.smartdraw.com/)
+> lets you create and edit flowcharts and diagrams using any modern web browser.
+
+- [Visio](https://products.office.com/en-us/visio/flowchart-software)
+> You are able to communicate complex information with data-linked diagrams in just a few clicks.
+
+- [Mindsister](https://www.mindmeister.com/)
+> An online mind mapping tool that lets you capture, develop and share ideas visually.
+
+- [Xmind](http://www.xmind.net/)
+> Flexible, works great on any desktop OS.
+
+- [Coggle](https://coggle.it/)
+> An online tool for creating and sharing mindmaps.
 
 ## Usability Testing Tools
 
