@@ -134,7 +134,34 @@ Source : [the-best-ux-ui-designer-tools-resources-blogs-books-collection : mediu
 
 ## Mobile App Prototypers
 
+- [Mockplus](http://www.mockplus.com/?utm_source=promote&utm_medium=click&utm_campaign=becky)
+> Prototype for iOS, Android, desktop and web. Preview design on actual device easily.
+
+- [POP](https://popapp.in/)
+> Transform your pen+paper ideas into a real working prototype quickly.
+
+- [AppCooker](http://www.appcooker.com/)
+> Prototype App on iPad.
+
+- [Framer](http://framerjs.com/)
+> A new way to design with code.
+
+- [Pixate](http://www.pixate.com/)
+> Experience your ideas on device as if they’re completely real.
+
 ## Design Tools
+
+- [Skecth](http://www.sketchapp.com/)
+
+- [Adobe Photoshop CC](http://www.adobe.com/products/photoshop.html)
+
+- [Pixelmator](http://www.pixelmator.com/)
+
+- [Adobe Illustrator CC](http://www.adobe.com/products/illustrator.html)
+
+- [Adobe Dreamweaver CC](http://www.adobe.com/products/dreamweaver.html)
+
+- [Adobe Fireworks](http://www.adobe.com/products/fireworks.html)
 
 ## Free UX & UI Books
 
