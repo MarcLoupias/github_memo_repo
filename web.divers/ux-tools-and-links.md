@@ -93,6 +93,45 @@ Source : [the-best-ux-ui-designer-tools-resources-blogs-books-collection : mediu
 
 ## Prototyping Tools
 
+- [Pidoco](https://pidoco.com/en)
+> Online wireframe and prototyping tool.
+
+- [Uxpin](https://www.uxpin.com/)
+> Online tool let your team design, collaborate, and present prototypes.
+
+- [Mockplus](http://www.mockplus.com/?utm_source=promote&utm_medium=click&utm_campaign=becky)
+> Easy to use prototyping tool helps you design rapidly.
+
+- [NinjaMock](http://ninjamock.com/)
+> An web-based and simple prototyping tool.
+
+- [Axure](http://www.axure.com/)
+> Tool for create high fidelity and complicated prototypes.
+
+- [Justinmind](http://www.justinmind.com/)
+> Tool for high fidelity prototypes.
+
+- [Balsamiq Mockups](https://balsamiq.com/)
+> Tool for simple and low-fidelity wireframes.
+
+- [Proto.io](https://proto.io/)
+> Tool for design and prototype.
+
+- [Invision](https://www.invisionapp.com/)
+> Web-based prototyping tool that make your design live quickly.
+
+- [Marvel](https://marvelapp.com/)
+> Prototyping tool for linking the screens together.
+
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle)
+> Prototyping Tools for Mac Users.
+
+- [Flinto](https://www.flinto.com/)
+> Prototyping tool for linking the screens together. Mac only.
+
+- [Mockflow](https://www.mockflow.com/)
+> Another platform for prototyping, with the possibility of project planning.
+
 ## Mobile App Prototypers
 
 ## Design Tools
