@@ -2,8 +2,8 @@
 
 ## links
 
-- [best-practices-for-a-pragmatic-restful-api] (http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-- [5-basic-rest-api-design-guidelines : dzone.com] (https://dzone.com/articles/5-basic-rest-api-design-guidelines?edition=220209&utm_source=Spotlight&utm_medium=email&utm_campaign=integration%202016-10-06)
+- [best-practices-for-a-pragmatic-restful-api](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- [5-basic-rest-api-design-guidelines : dzone.com](https://dzone.com/articles/5-basic-rest-api-design-guidelines?edition=220209&utm_source=Spotlight&utm_medium=email&utm_campaign=integration%202016-10-06)
 
 ## Resources (URIs)
 
@@ -62,7 +62,7 @@ Replaces all current representations of the target resource with the uploaded co
 
 ### PATCH
 
-[Added and defined in RFC5789] (https://tools.ietf.org/html/rfc5789) - modify an existing HTTP resource (PUT is a complete replacement). (check [this use case] (http://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/) for a concrete usage)
+[Added and defined in RFC5789](https://tools.ietf.org/html/rfc5789) - modify an existing HTTP resource (PUT is a complete replacement). (check [this use case](http://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/) for a concrete usage)
 
 ### DELETE
 
