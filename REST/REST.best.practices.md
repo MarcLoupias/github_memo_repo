@@ -60,6 +60,10 @@ A POST request is used to send data to the server, for example, customer informa
 
 Replaces all current representations of the target resource with the uploaded content.
 
+### PATCH
+
+[Added and defined in RFC5789] (https://tools.ietf.org/html/rfc5789) - modify an existing HTTP resource (PUT is a complete replacement). (check [this use case] (http://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/) for a concrete usage)
+
 ### DELETE
 
 Removes all current representations of the target resource given by a URI.
