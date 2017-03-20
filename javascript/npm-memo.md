@@ -1,16 +1,16 @@
 
 ### links
 
-- [npm basic commands] (http://dreamerslab.com/blog/en/npm-basic-commands/)
-- [10 Cool Things You Probably Didn’t Realize npm Could Do] (http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm)
+- [npm basic commands](http://dreamerslab.com/blog/en/npm-basic-commands/)
+- [10 Cool Things You Probably Didn’t Realize npm Could Do](http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm)
 
 
 ### semver
 
-[semver to manage scopes in package.json] (https://docs.npmjs.com/misc/semver)
-- [semver] (https://github.com/mojombo/semver/blob/master/semver.md) : `<major>.<minor>.<patch>`
-- [caret range] (https://www.npmjs.com/package/semver#caret-ranges-1-2-3-0-2-5-0-0-4) keep major, change minor & patch
-- [tilde range] (https://www.npmjs.com/package/semver#tilde-ranges-1-2-3-1-2-1) keep major & minor, only patch update
+[semver to manage scopes in package.json](https://docs.npmjs.com/misc/semver)
+- [semver](https://github.com/mojombo/semver/blob/master/semver.md) : `<major>.<minor>.<patch>`
+- [caret range](https://www.npmjs.com/package/semver#caret-ranges-1-2-3-0-2-5-0-0-4) keep major, change minor & patch
+- [tilde range](https://www.npmjs.com/package/semver#tilde-ranges-1-2-3-1-2-1) keep major & minor, only patch update
 
 **Warning** 
 semver interpretation for breaking changes can be slightly different from a package to another. The semver spec says that any breaking change must be traduced in a ++ on the major version number.
@@ -41,7 +41,7 @@ npm config list -ls
 ```
 
 ### npm folders
-[check this] (https://docs.npmjs.com/files/folders)
+[check this](https://docs.npmjs.com/files/folders)
 
 TLDR :
 
@@ -53,11 +53,11 @@ TLDR :
 
 ### managing dependencies
 
-- [npm-check] (https://www.npmjs.com/package/npm-check)
+- [npm-check](https://www.npmjs.com/package/npm-check)
 > Check for outdated, incorrect, and unused dependencies.
 
-- [npm-check-updates] (https://www.npmjs.com/package/npm-check-updates)
+- [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 > Find newer versions of dependencies than what your package.json or bower.json allows
 
-- [npm-remote-ls] (https://www.npmjs.com/package/npm-remote-ls)
+- [npm-remote-ls](https://www.npmjs.com/package/npm-remote-ls)
 > Examine a package's dependency graph before you install it
