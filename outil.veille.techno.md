@@ -1,3 +1,3 @@
-- [www.thoughtworks.com/radar] (https://www.thoughtworks.com/radar) : site proposant un radar des technos pour la veille techno (maj annuelle)
+- [www.thoughtworks.com/radar](https://www.thoughtworks.com/radar) : site proposant un radar des technos pour la veille techno (maj annuelle)
 
-- [fineinfo.net] (http://fineinfo.net/)
+- [fineinfo.net](http://fineinfo.net/)
