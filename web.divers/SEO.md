@@ -33,3 +33,5 @@ https://support.google.com/webmasters/answer/35769?hl=fr
 [10 étapes pour créer un site optimisé](http://www.axenet.fr/creation-site-seo-friendly/)
 
 [10 Free Yet Overlooked Google Tools For SEO Professionals : neilpatel.com](http://neilpatel.com/2016/11/05/10-free-yet-overlooked-google-tools-for-seo-professionals/)
+
+[guide sur les balises meta](http://www.webrankinfo.com/dossiers/techniques/guide-balises-meta)
