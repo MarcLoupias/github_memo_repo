@@ -31,3 +31,10 @@
 ## nb de développeurs
 
 [4,7 millions de développeurs en Europe, Londres et Paris en tête : blog.jobtic.fr](http://blog.jobtic.fr/47-millions-de-developpeurs-europe-londres-paris-tete/)
+
+## internaliser les devs ou externaliser
+
+[Faut-il internaliser ou externaliser ses développements web ?](https://blog.capsens.eu/faut-il-internaliser-ou-externaliser-ses-d%C3%A9veloppements-web-d3d17c6b3246) (20170208) TLDR : Les enjeux ont changés, différenciation concurrentielle et agilité (réduction TTM) permettent d'avoir un edge sur la concurrence, ces enjeux nécessitent une internalisation des devs.
+
+[Vers une ré-internalisation de l'informatique ? ](http://cestpasmonidee.blogspot.fr/2016/06/vers-une-re-internalisation-de.html) (20160612)
+TLDR : Il vaut mieux internaliser. Contre-exemple : Slack, Skype
