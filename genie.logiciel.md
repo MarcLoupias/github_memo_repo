@@ -141,6 +141,7 @@ La notion fondamentale est qu'un objet devrait faire aussi peu d'hypothèses que
 ## histoire
 - [Software crisis](https://en.wikipedia.org/wiki/Software_crisis)
 Fin des années 70, les ordinateurs sont montés en puissance, donc permettent le développement de programmes plus puissants et plus complexe. Dégradation massive de la qualité du à la complexité. C'est le début des recherches en génie logiciel pour définir les bonnes pratiques du développement logiciel (gestion qualité, méthodes, invention programmation procédurale puis objet).
+- [bulle internet](https://en.wikipedia.org/wiki/Dot-com_bubble) Fin 90 début 2000 le crash boursier entraine de nombreux licenciements de développeurs suite aux réductions du couts et aux sociétés déposants le bilan. Les développeurs ont alors tendance à se transformer en oui:oui pour éviter de perdre leur emploi, entrainant une dégradation massive de la qualité des productions. Ce phénomène associé à l'arrivée de nombreux jeunes développeurs sur le marché du travail quelques années après sont les deux phénomènes responsables de l'immaturité de l'industrie du développement logiciel dénoncée par Robert C. Martin (cf Martin pour une explication plus détaillée)
 
 ## courants
 
