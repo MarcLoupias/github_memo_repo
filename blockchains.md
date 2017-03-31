@@ -11,3 +11,5 @@
 [Cécile Monteil - La Blockchain : un jeu d'enfant, Finance-Fiction , Popfinance](https://www.youtube.com/watch?v=cL1PWRaZq4g) (bof bof)
 
 [La Blockchain en détail (Benoît Lafontaine - Yann Rouillard) : Octo](https://www.youtube.com/watch?v=J0MgFQ-j6nE) (prometteur !)
+
+[c-est-quoi-la-blockchain : blockchainfrance.net](https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/)
