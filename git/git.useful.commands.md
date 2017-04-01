@@ -104,3 +104,27 @@ git ls-files -v | grep '^h'
 # rollback
 git update-index --no-assume-unchanged README.d
 ```
+
+## log
+
+```
+# print a log filtered on commit message with regex
+git log --grep 'regex'
+```
+
+```
+# print a log filtered on commit content (+ lines & -lines) with regex
+git log -G 'regex'
+```
+
+```
+# print a log filtered on author name
+git log --author="automatix"
+```
+
+```
+# print a log filtered since commit date
+git log --since="2013-01-30"
+# print a log filtered until commit date
+git log --until="2013-01-30"
+```
