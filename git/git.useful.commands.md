@@ -1,5 +1,7 @@
 # git tips & tricks
 
+[Protips de Christophe Porteneuve : Devoxx2016](http://tdd.github.io/devoxx-git-protips/?utm_source=porteneuve&utm_medium=slides&utm_campaign=devoxxfr-2016#/)
+
 ## cloning
 
 ```
