@@ -11,6 +11,8 @@
 
 - [Wikipedia : Time To Market](https://en.wikipedia.org/wiki/Time_to_market)
 
+Egalement nommé Time To Deliver (TTD)
+
 #### Relation TD & TTM
 
 - [refacto & techno debt is not a choice but a responsability](http://www.velocitypartners.net/blog/2014/04/03/refactoring-and-technical-debt-its-not-a-choice-its-a-responsibility-part-2/)
