@@ -130,3 +130,8 @@ git log --since="2013-01-30"
 # print a log filtered until commit date
 git log --until="2013-01-30"
 ```
+
+```
+# print a log with a list of modified files
+git log --stat
+```
