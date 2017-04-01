@@ -1,15 +1,15 @@
 ```
 # cloning a repository in a specific folder
-git clone [url] [dir_name]
+git clone <url> <dir_name>
 
 # list local branch
 git branch -l
 
 # delete local branch
-git branch -d local_branch_name
+git branch -d <branch_name>
 
 # delete a local branch with diff from other branch
-git branch -D local_branch_name
+git branch -D <branch_name>
 
 # change working directory with HEAD of branch_name
 git checkout <branch_name>
@@ -18,7 +18,7 @@ git checkout <branch_name>
 git checkout -
 
 # create and pull a remote branch from a remote
-git checkout -b < new_branch > origin/< new_branch >
+git checkout -b <new_branch> origin/<new_branch>
 
 # create a local branch, do stuff, then push that new branch to the remote repo
 git checkout -b mynewfeature
