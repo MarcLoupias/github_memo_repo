@@ -11,6 +11,12 @@ git branch -d local_branch_name
 # delete a local branch with diff from other branch
 git branch -D local_branch_name
 
+# change working directory with HEAD of branch_name
+git checkout <branch_name>
+
+# change working directory with last branch 
+git checkout -
+
 # create and pull a remote branch from a remote
 git checkout -b < new_branch > origin/< new_branch >
 
