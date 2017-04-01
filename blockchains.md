@@ -19,7 +19,11 @@
 ## questions
 
 A priori les certificats utilisés dans une blockchain sont autosignés, comment gérer la révocation des certificats ?
-C'est à dire, en tant que user de la blockchain, comment je peux révoquer ma paire de clefs si elle est perdue, et comment je peux savoir que la paire de clefs d'une autre personne est révoquée ?
+
+Question déterminante, en tant que user de la blockchain je veux :
+- révoquer ma paire de clefs si elle est perdue ou volée
+- révoquer ma paire de clefs pour augmenter la taille de chiffrement de mes clefs (evol techno nécessitant d'augmenter la taille des clefs cf [cette explication sur wikipedia](https://fr.wikipedia.org/wiki/Chiffrement_RSA#S.C3.A9curit.C3.A9))
+- savoir si la paire de clefs d'une autre personne est révoquée
 
 ## blockchain pki
 
