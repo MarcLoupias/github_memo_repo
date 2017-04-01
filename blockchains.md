@@ -1,5 +1,7 @@
 # blockchains
 
+## quelques sources
+
 [intro très rapide](https://www.youtube.com/watch?v=r43LhSUUGTQ) (bof bof)
 
 [BarCamp "La Blockchain pour les développeurs" : PaloIT](https://www.youtube.com/watch?v=6hmQT8H-JJk) (bof bof)
@@ -13,3 +15,7 @@
 [La Blockchain en détail (Benoît Lafontaine - Yann Rouillard) : Octo](https://www.youtube.com/watch?v=J0MgFQ-j6nE) (prometteur !)
 
 [c-est-quoi-la-blockchain : blockchainfrance.net](https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/)
+
+## questions
+
+A priori les certificats utilisés dans une blockchain sont autosignés, comment gérer la révocation des certificats ?
