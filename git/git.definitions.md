@@ -34,6 +34,8 @@ It is a state of a directory.
 Each commit has one ore more parents commit.
 Git stores only the difference between current commit state and parents. So a commit = current project state - parents.
 
+[Comment faire un commit sans faire du Git (Alexandre Garnier) : Devoxx2016](https://www.youtube.com/watch?v=Hd_UpJPDlik&index=88&list=PLTbQvx84FrAS5clN9i8_LFUQxcMY7qXAO)
+
 ### branch
 A "branch" is an active line of development. 
 The most recent commit on a branch is referred to as the tip of that branch. The tip of the branch is referenced by a branch head, which moves forward as additional development is done on the branch.
