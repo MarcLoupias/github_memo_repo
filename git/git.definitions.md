@@ -8,7 +8,7 @@
 
 ## concepts
 
-[glossary] (https://git-scm.com/book/commands)
+[glossary](https://git-scm.com/book/commands)
 
 ### repository
 Named also a *tree* by some git users.
@@ -23,7 +23,7 @@ A repository created with `git init --bare` command is for **sharing**.
 A bare repository doesn't contain a working directory nor a `.git` directory.
 Github, gitlab, etc ..., create a bare repository on their side.
 
-[What is a bare git repository : www.saintsjd.com] (http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
+[What is a bare git repository : www.saintsjd.com](http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
 
 ### remote
 A remote is a distant repository (a repo on another computer).
