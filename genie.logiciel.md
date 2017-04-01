@@ -160,3 +160,8 @@ Fin des années 70, les ordinateurs sont montés en puissance, donc permettent l
 - [Demanding Professionalism in Software Development : Robert C. Martin (Uncle Bob)](https://www.youtube.com/watch?v=p0O1VVqRSK0)
 - [Agility and Architecture : Robert C. Martin (Uncle Bob)](https://www.youtube.com/watch?v=0oGpWmS0aYQ)
 - [Jim Coplien and Bob Martin Debate TDD](https://www.youtube.com/watch?v=KtHQGs3zFAM)
+
+## exemples concrets
+
+[odyssée du Continuous Delivery Diego Lemos David Caramelo (Nicolas Bourgeois)](https://www.youtube.com/watch?v=P9G7jBBwLjc&index=80&list=PLTbQvx84FrAS5clN9i8_LFUQxcMY7qXAO)
+Présentation Devoxx2016 sur le passage du code legacy au continuous delivery à la Société Générale. Juste génial.
