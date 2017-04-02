@@ -1,1 +1,0 @@
-- [cours GIT CNRS] (http://liris.cnrs.fr/~pchampin/enseignement/intro-git/) **très bon**
