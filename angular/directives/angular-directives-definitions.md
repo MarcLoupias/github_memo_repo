@@ -1,4 +1,4 @@
-[the-hitchhikers-guide-to-the-directive/] (http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
+[the-hitchhikers-guide-to-the-directive/](http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
 
 ```javascript
 var myModule = angular.module(...); 
