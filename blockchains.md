@@ -37,4 +37,8 @@ Question déterminante, en tant que user de la blockchain je veux :
 
 ### University paper
 
-[IKP: Turning a PKI Around with Blockchains, Stephanos Matsumoto & Raphael M. Reischuk](https://eprint.iacr.org/2016/1018.pdf)
+[Stephanos Matsumoto](http://www.stevematsumoto.net/cv/)
+
+[IKP: Turning a PKI Around with Blockchains, Stephanos Matsumoto & Raphael M. Reischuk](https://eprint.iacr.org/2016/1018.pdf) to appear at [38th IEEE Symposium on Security and Privacy (S&P), San Jose, CA, May 2017](http://www.ieee-security.org/TC/SP2017/program-papers.html)
+
+
