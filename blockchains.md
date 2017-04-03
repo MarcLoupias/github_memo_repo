@@ -41,4 +41,11 @@ Question déterminante, en tant que user de la blockchain je veux :
 
 [IKP: Turning a PKI Around with Blockchains, Stephanos Matsumoto & Raphael M. Reischuk](https://eprint.iacr.org/2016/1018.pdf) to appear at [38th IEEE Symposium on Security and Privacy (S&P), San Jose, CA, May 2017](http://www.ieee-security.org/TC/SP2017/program-papers.html)
 
+### influence & inspirations
+
+[Web of trust](https://en.wikipedia.org/wiki/Web_of_trust)
+
+> As time goes on, you will accumulate keys from other people that you may want to designate as trusted introducers. Everyone else will each choose their own trusted introducers. And everyone will gradually accumulate and distribute with their key a collection of certifying signatures from other people, with the expectation that anyone receiving it will trust at least one or two of the signatures. This will cause the emergence of a decentralized fault-tolerant web of confidence for all public keys.
+
+ [Phil Zimmermann](https://en.wikipedia.org/wiki/Phil_Zimmermann), 1992
 
