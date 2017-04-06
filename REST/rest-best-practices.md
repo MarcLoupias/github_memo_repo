@@ -106,7 +106,7 @@ A search is a sub-resource of a collection. As such, its results will have a dif
 
 ## error handling
 
-[rest-api-error-return-good-practices : stackoverflow.com] (http://stackoverflow.com/questions/942951/rest-api-error-return-good-practices)
+[rest-api-error-return-good-practices : stackoverflow.com](http://stackoverflow.com/questions/942951/rest-api-error-return-good-practices)
 
 The main choice is do you want to treat the HTTP status code as part of your REST API or not.
 
