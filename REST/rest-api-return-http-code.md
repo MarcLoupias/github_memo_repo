@@ -15,7 +15,7 @@
 - **422 Unprocessable Entity** - Used for validation errors
 - **429 Too Many Requests** - When a request is rejected due to rate limiting
 
-- [choosing-an-http-status-code] (http://racksburg.com/choosing-an-http-status-code/)
+- [choosing-an-http-status-code](http://racksburg.com/choosing-an-http-status-code/)
 
 #### Complete http status code list
-- [http-status-codes : www.iana.org] (http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
+- [http-status-codes : www.iana.org](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
