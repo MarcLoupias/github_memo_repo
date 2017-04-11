@@ -38,3 +38,7 @@
 
 [Vers une ré-internalisation de l'informatique ? ](http://cestpasmonidee.blogspot.fr/2016/06/vers-une-re-internalisation-de.html) (20160612)
 TLDR : Les enjeux ont changés, différenciation concurrentielle et agilité (réduction TTM) permettent d'avoir un edge sur la concurrence, ces enjeux nécessitent une internalisation des devs.
+
+## contrats agile
+
+[contrat-agile.org](http://www.contrat-agile.org/index.html)
