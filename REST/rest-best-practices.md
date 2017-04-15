@@ -5,6 +5,10 @@
 - [best-practices-for-a-pragmatic-restful-api](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [5-basic-rest-api-design-guidelines : dzone.com](https://dzone.com/articles/5-basic-rest-api-design-guidelines?edition=220209&utm_source=Spotlight&utm_medium=email&utm_campaign=integration%202016-10-06)
 
+## API documentation
+
+[Documenting REST APIs](http://idratherbewriting.com/learnapidoc/)
+
 ## Resources (URIs)
 
 ### Names and Verbs
