@@ -25,3 +25,9 @@
 `{ SWAGGER UI }`
 
 > Visualize your API's resources from its Swagger definition and generate beautiful, interactive documentation that can be hosted in any environment, allowing your end consumers to easily get started with your API.
+
+## npm packages
+
+https://www.npmjs.com/~swagger-api
+
+https://www.npmjs.com/package/swagger
