@@ -35,7 +35,7 @@ hapi enables developers to focus on writing reusable application logic instead o
 ## dev frameworks ranking
 
 - [10 Best Node.js Frameworks For Developers](https://www.devsaran.com/blog/10-best-nodejs-frameworks-developers) (20151005)
-- [Node.js Frameworks: The 10 Best for Web and Apps Development](Node.js Frameworks: The 10 Best for Web and Apps Development) (20160716)
+- [Node.js Frameworks: The 10 Best for Web and Apps Development](http://noeticforce.com/best-nodejs-frameworks-for-web-and-app-development) (20160716)
 - [What are the best full-stack Node.js frameworks?](https://www.slant.co/topics/2428/~full-stack-node-js-frameworks) (20170301)
 
 ## PaaS deployment
