@@ -9,6 +9,8 @@
 
 [Documenting REST APIs](http://idratherbewriting.com/learnapidoc/)
 
+[Document your Already Existing APIs with Swagger : scotch.io](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
+
 ## Resources (URIs)
 
 ### Names and Verbs
