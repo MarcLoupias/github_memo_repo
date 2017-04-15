@@ -4,7 +4,9 @@
 
 [main website](http://swagger.io/)
 
-[swagger specs](http://swagger.io/specification/)
+[swagger specs 2.0](http://swagger.io/specification/)
+
+Backed by [Smartbear](https://smartbear.com/)
 
 ## principles
 
