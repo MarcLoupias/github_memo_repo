@@ -8,6 +8,8 @@
 
 Backed by [Smartbear](https://smartbear.com/)
 
+[What is Swagger and Why it Matters](https://blog.readme.io/what-is-swagger-and-why-it-matters/) 20160710
+
 ## principles
 
 ### design
