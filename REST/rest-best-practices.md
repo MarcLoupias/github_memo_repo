@@ -11,6 +11,9 @@
 
 [Document your Already Existing APIs with Swagger : scotch.io](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
 
+[REST API Documentation – Part 1 : dzone.com](https://dzone.com/articles/rest-api-documentation-part-1)
+[REST API Documentation Part 2 — Swagger, RAML, and Open API : dzone.com](https://dzone.com/articles/rest-api-documentation-part-2-1)
+
 ## Resources (URIs)
 
 ### Names and Verbs
