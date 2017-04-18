@@ -42,3 +42,8 @@ TLDR : Les enjeux ont changés, différenciation concurrentielle et agilité (r�
 ## contrats agile
 
 [contrat-agile.org](http://www.contrat-agile.org/index.html)
+
+## management
+
+[Why The Command-and-Control Mindset Is Killing Your Company : corporate-rebels.com](http://corporate-rebels.com/mindset/) March 26, 2017
+
