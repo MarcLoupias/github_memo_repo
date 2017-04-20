@@ -22,6 +22,10 @@
 
 ## inter-component communication
 
+### angular 2 parent & child communication via service
+
+[Parent and children communicate via a service : angular.io](https://angular.io/docs/ts/latest/cookbook/component-communication.html#!#bidirectional-service)
+
 ### practices overview
 
 src [Angular 1.5. Components communication. Best practice : stackoverflow.com](http://stackoverflow.com/questions/41070446/angular-1-5-components-communication-best-practice)
