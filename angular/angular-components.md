@@ -47,6 +47,4 @@ src [Angular 1.5. Components communication. Best practice : stackoverflow.com](h
 
 [AngularJS: Cross Component Communication](http://www.aurorasolutions.io/blog/angularjs-cross-component-communication/)
 
-
-
-
+[Angular components communication : dfsq.info](http://dfsq.info/site/read/angular-components-communication)
