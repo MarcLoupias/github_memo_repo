@@ -63,6 +63,8 @@ Events are no more then GOTO in an asynchronous context. (<- assert by me)
 
 [GOTO still considered harmful? : stackoverflow.com](http://stackoverflow.com/questions/46586/goto-still-considered-harmful)
 
+[Add Angular1 Event Patterns/Best Practices](https://github.com/johnpapa/angular-styleguide/issues/805)
+
 ### articles
 
 [Parent component trigger function in child component](https://github.com/toddmotto/angularjs-styleguide/issues/156)
