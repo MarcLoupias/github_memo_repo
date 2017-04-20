@@ -61,6 +61,10 @@ src [Angular 1.5. Components communication. Best practice : stackoverflow.com](h
 
 Events are no more then GOTO in an asynchronous context. (<- assert by me)
 
+Worse then goto :
+- async
+- many place in source code to register an event
+
 [GOTO still considered harmful? : stackoverflow.com](http://stackoverflow.com/questions/46586/goto-still-considered-harmful)
 
 [Add Angular1 Event Patterns/Best Practices](https://github.com/johnpapa/angular-styleguide/issues/805)
