@@ -41,11 +41,21 @@ src [Angular 1.5. Components communication. Best practice : stackoverflow.com](h
 
 ### component design
 
+#### avoid event bubbling & extraneous props
+
 [Angular Component Design: How to Avoid Custom Event Bubbling And Extraneous Properties in the Local Component Tree](http://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/)
 
 2 big flaws :
 - Custom Event Bubbling
 - Extraneous Properties (input are props so if tree is deeper then 2 comps, there is lots of props passing through for nothing)
+
+#### cross component communication design comparison
+
+[AngularJS: Cross Component Communication](http://www.aurorasolutions.io/blog/angularjs-cross-component-communication/)
+    	
+- Communicating with inherited scopes
+- Communicating with events  	
+- Communicating with services
 
 ### articles
 
@@ -53,6 +63,6 @@ src [Angular 1.5. Components communication. Best practice : stackoverflow.com](h
 
 [component communication and triggers](https://github.com/toddmotto/angularjs-styleguide/issues/90)
 
-[AngularJS: Cross Component Communication](http://www.aurorasolutions.io/blog/angularjs-cross-component-communication/)
+
 
 [Angular components communication : dfsq.info](http://dfsq.info/site/read/angular-components-communication)
