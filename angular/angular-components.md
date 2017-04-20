@@ -79,6 +79,6 @@ Worse then goto :
 
 [component communication and triggers](https://github.com/toddmotto/angularjs-styleguide/issues/90)
 
-
+[Component Interaction in Angular : kfarst.github.io](http://kfarst.github.io/angular/2017/03/29/component-interaction-in-angular/) 20170329
 
 [Angular components communication : dfsq.info](http://dfsq.info/site/read/angular-components-communication)
