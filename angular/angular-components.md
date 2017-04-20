@@ -39,6 +39,14 @@ src [Angular 1.5. Components communication. Best practice : stackoverflow.com](h
 
 > Thank you.
 
+### component design
+
+[Angular Component Design: How to Avoid Custom Event Bubbling And Extraneous Properties in the Local Component Tree](http://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/)
+
+2 big flaws :
+- Custom Event Bubbling
+- Extraneous Properties (input are props so if tree is deeper then 2 comps, there is lots of props passing through for nothing)
+
 ### articles
 
 [Parent component trigger function in child component](https://github.com/toddmotto/angularjs-styleguide/issues/156)
