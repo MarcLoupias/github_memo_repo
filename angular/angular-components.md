@@ -57,6 +57,12 @@ src [Angular 1.5. Components communication. Best practice : stackoverflow.com](h
 - Communicating with events  	
 - Communicating with services
 
+#### event based design is cancer
+
+Events are no more then GOTO in an asynchronous context. (<- assert by me)
+
+[GOTO still considered harmful? : stackoverflow.com](http://stackoverflow.com/questions/46586/goto-still-considered-harmful)
+
 ### articles
 
 [Parent component trigger function in child component](https://github.com/toddmotto/angularjs-styleguide/issues/156)
