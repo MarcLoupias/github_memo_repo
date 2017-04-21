@@ -132,7 +132,7 @@ La notion fondamentale est qu'un objet devrait faire aussi peu d'hypothèses que
 - [Donald Knuth : Premature Optimization](http://www.c2.com/cgi/wiki?PrematureOptimization)
 - [Robert Cecil Martin (Uncle Bob)](https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
   - SOLID concept, Agile Manifesto Software Craftmanship
-  - [Clean Code] (http://alm.developpez.com/livres/index/?page=Les-livres-en-francais#L2744023272)
+  - [Clean Code](http://alm.developpez.com/livres/index/?page=Les-livres-en-francais#L2744023272)
 - [Sandro Mancuso : Software Craftmanship](http://codurance.com/blog/author/sandro-mancuso/)
 - [Martin Fowler : Agile Manifesto, CI](https://fr.wikipedia.org/wiki/Martin_Fowler) [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=asap_bc?ie=UTF8)
 
@@ -160,6 +160,9 @@ Fin des années 70, les ordinateurs sont montés en puissance, donc permettent l
 - [Demanding Professionalism in Software Development : Robert C. Martin (Uncle Bob)](https://www.youtube.com/watch?v=p0O1VVqRSK0)
 - [Agility and Architecture : Robert C. Martin (Uncle Bob)](https://www.youtube.com/watch?v=0oGpWmS0aYQ)
 - [Jim Coplien and Bob Martin Debate TDD](https://www.youtube.com/watch?v=KtHQGs3zFAM)
+
+**Conférences**
+- [SOFTWARE DELIVERY CRAFTSMANSHIP MATTERS](https://craft-conf.com/)
 
 ## exemples concrets
 
