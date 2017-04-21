@@ -4,6 +4,7 @@
 - [locators protractors] (http://www.protractortest.org/#/locators)
 - [page objects] (https://docs.google.com/presentation/d/1B6manhG0zEXkC-H-tPo2vwU06JhL8w9-XCF9oehXzAQ/edit?pli=1#slide=id.g2bc490733_00)
 - [protractor-styleguide] (https://github.com/CarmenPopoviciu/protractor-styleguide)
+- [phantomjs not good for e2e](https://www.exratione.com/2015/02/phantomjs-has-many-uses-but-function-testing-isnt-one-of-them/)
 
 #### installation des drivers pour webdrivers
 
