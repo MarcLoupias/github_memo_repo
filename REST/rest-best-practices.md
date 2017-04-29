@@ -4,6 +4,7 @@
 
 - [best-practices-for-a-pragmatic-restful-api](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [5-basic-rest-api-design-guidelines : dzone.com](https://dzone.com/articles/5-basic-rest-api-design-guidelines?edition=220209&utm_source=Spotlight&utm_medium=email&utm_campaign=integration%202016-10-06)
+- [Le design d'API REST, un débat sans fin ? (Guillaume Laforge) : Devoxx 2016](https://www.youtube.com/watch?v=6onHFNqMUwY)
 
 ## API documentation
 
