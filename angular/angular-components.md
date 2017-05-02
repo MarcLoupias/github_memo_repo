@@ -4,6 +4,8 @@
 
 [angular official component devguide](https://docs.angularjs.org/guide/component)
 
+[Refactoring Angular Apps to Component Style : teropa.info](https://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
+
 ## best practices
 
 [Todd Motto best practices](https://github.com/toddmotto/angularjs-styleguide#components)
