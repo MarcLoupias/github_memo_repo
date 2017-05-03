@@ -1,14 +1,14 @@
 # angular components
 
-## guides
+## I - guides
 
 [angular official component devguide](https://docs.angularjs.org/guide/component)
 
 [Refactoring Angular Apps to Component Style : teropa.info](https://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
 
-## best practices
+## II - best practices
 
-### Todd Motto best practices
+### A - Todd Motto best practices
 
 [Todd Motto best practices](https://github.com/toddmotto/angularjs-styleguide#components)
 
@@ -35,9 +35,11 @@
 
 So TLDR is, the webapp is a tree of components, theses components are stateful or stateless. Views are stateful and fetches data when data are required on init. Stateful components are an aggregation of stateless components to renders data.
 
-## feedback
+See section *component design* section in *inter-component communication* part for this design flaws.
 
-### NG 1.5 from the trenches at velesin.io
+## III - feedback
+
+### A - NG 1.5 from the trenches at velesin.io
 
 - 1/7 [Starting a new app in Angular 1.5 – does it make sense?](https://velesin.io/2016/04/14/starting-a-new-app-in-angular-1-5/)
 - 2/7 [Angular 1.5 app as a tree of components](https://velesin.io/2016/04/26/angular-1-5-app-as-a-tree-of-components/)
@@ -47,13 +49,13 @@ So TLDR is, the webapp is a tree of components, theses components are stateful o
 - 6/7 [Unit testing Angular 1.5 components – a detailed guide](https://velesin.io/2016/08/23/unit-testing-angular-1-5-components/)
 - 7/7 E2E testing of component-oriented Angular 1.5 app [COMING SOON]
 
-## inter-component communication
+## IV - inter-component communication
 
-### angular 2 parent & child communication via service
+### A - angular 2 parent & child communication via service
 
 [Parent and children communicate via a service : angular.io](https://angular.io/docs/ts/latest/cookbook/component-communication.html#!#bidirectional-service)
 
-### practices overview
+### B - practices overview
 
 src [Angular 1.5. Components communication. Best practice : stackoverflow.com](http://stackoverflow.com/questions/41070446/angular-1-5-components-communication-best-practice)
 
@@ -70,9 +72,9 @@ src [Angular 1.5. Components communication. Best practice : stackoverflow.com](h
 
 > Thank you.
 
-### component design
+### C - component design
 
-#### avoid event bubbling & extraneous props
+#### 1 - avoid event bubbling & extraneous props
 
 [Angular Component Design: How to Avoid Custom Event Bubbling And Extraneous Properties in the Local Component Tree](http://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/)
 
@@ -80,7 +82,7 @@ src [Angular 1.5. Components communication. Best practice : stackoverflow.com](h
 - Custom Event Bubbling
 - Extraneous Properties (input are props so if tree is deeper then 2 comps, there is lots of props passing through for nothing)
 
-#### cross component communication design comparison
+#### 2 - cross component communication design comparison
 
 [AngularJS: Cross Component Communication](http://www.aurorasolutions.io/blog/angularjs-cross-component-communication/)
     	
@@ -88,7 +90,7 @@ src [Angular 1.5. Components communication. Best practice : stackoverflow.com](h
 - Communicating with events  	
 - Communicating with services
 
-#### event based design is cancer
+#### 3 - event based design is cancer
 
 Events are no more then GOTO in an asynchronous context. (<- assert by me)
 
@@ -100,7 +102,7 @@ Worse then goto :
 
 [Add Angular1 Event Patterns/Best Practices](https://github.com/johnpapa/angular-styleguide/issues/805)
 
-### articles
+### D - articles
 
 [Parent component trigger function in child component](https://github.com/toddmotto/angularjs-styleguide/issues/156)
 
