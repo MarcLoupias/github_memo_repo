@@ -18,20 +18,22 @@
   - callback function are used to handle events, they are used to update the parents components data modified by children.
   
 - stateful components
+  - referred to as **smart/container components**
+  - *how things work*
   - fetches state (through API, so no `bindings`)
   - does not directly mutate state
   - renders child components that mutate state
   - the classic case is a view component for example an entity list
-  - also referred to as **smart/container components**
 
 - stateless components
+  - referred to as **dumb/presentational components**
+  - *how things look*
   - has defined inputs and outputs using `bindings: {}`
   - data enters the component through attribute bindings (**inputs**)
   - data leaves the component through events (**outputs**)
   - mutates state, passes data back up on-demand (such as a click or submit event)
   - doesn't care where data comes from - it's stateless
   - are highly reusable components
-  - also referred to as **dumb/presentational components**
 
 So TLDR is, the webapp is a tree of components, theses components are stateful or stateless. Views are stateful and fetches data when data are required on init. Stateful components are an aggregation of stateless components to renders data.
 
