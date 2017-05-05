@@ -35,7 +35,13 @@
   - doesn't care where data comes from - it's stateless
   - are highly reusable components
 
-So TLDR is, the webapp is a tree of components, theses components are stateful or stateless. Views are stateful and fetches data when data are required on init. Stateful components are an aggregation of stateless components to renders data.
+So TLDR is :
+- the webapp is a tree of components
+- theses components are stateful or stateless
+- views are stateful
+- stateful components fetches and store data (it is the state)
+- stateful components are an aggregation of stateless components
+- stateless components renders data only, so they are reusables
 
 See section *component design* section in *inter-component communication* part for this design flaws.
 
