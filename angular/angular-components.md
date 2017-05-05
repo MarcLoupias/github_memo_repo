@@ -113,3 +113,5 @@ Worse then goto :
 [Component Interaction in Angular : kfarst.github.io](http://kfarst.github.io/angular/2017/03/29/component-interaction-in-angular/) 20170329
 
 [Angular components communication : dfsq.info](http://dfsq.info/site/read/angular-components-communication)
+
+[Presentational and Container Components : Dan Abramov (ReactJS team, Redux author)](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
