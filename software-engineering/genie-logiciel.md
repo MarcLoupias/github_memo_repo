@@ -77,6 +77,44 @@ La notion fondamentale est qu'un objet devrait faire aussi peu d'hypothèses que
 
 ## pratiques
 
+### monorepo
+
+Plusieurs solutions de gestion des repos/projets :
+- 1 repo = 1 projet
+- 1 repo = 1 micro-service
+- monorepo (tout le SI est contenu dans un seul repo)
+
+défaut des 2 premiers : Dependency Hell.
+
+avantages du monorepo :
+- version unifiée du code
+- unique source de vérité
+- réutilisation intensive
+- gestion des dépendances simplifiées (tous les projets ont les mêmes versions)
+- collaboration inter-équipes améliorées (mais nécessite meilleure communication)
+- frontières des équipes et code ownership flexibles (résoud le problème levé par la loi de Conway)
+
+inconvénients du monorep :
+- difficulté à faire des montées de version des dépendances (puisque tout le monde est impacté)
+- investissement très lourd du tooling pour gérer les projets
+- sécurité du code (tout le monde a tout le code)
+
+impact git :
+- généralement on fait du feature branching (rend difficile la collaboration)
+- monorepo impose le trunk based development (commit quotidiens sur le trunk + feature toggle)
+
+Le monorepo est la pratique actuelle des géants comme Google et Facebook.
+
+Exemple Google (janvier 2015) :
+- 1 repo (exclus : Chrome, Android, ...)
+- 25K ingés
+- 1 milliard de fichiers
+- 35 millions de commits
+- 9 millions de fichiers sources
+- 2 milliards de lignes de code
+
+[Pourquoi votre entreprise devrait stocker l'ensemble de son code dans un seul repo (Thierry Abaléa) Devoxx2017](https://www.youtube.com/watch?v=7Dfes-qJQ54)
+
 ### continuous integration
 
 [wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
