@@ -15,6 +15,9 @@
 
 [comparatif](http://www.infoq.com/fr/news/2013/07/angularjs-1-2-et-2-0)
 
+## npm dependency house of cards
+
+[One programmer almost broke the internet by deleting 11 lines of code](http://www.businessinsider.fr/us/npm-left-pad-controversy-explained-2016-3/)
 
 ## evergreen browsers
 
