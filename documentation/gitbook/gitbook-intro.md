@@ -20,6 +20,10 @@ https://www.gitbook.com
 
 > common questions and answers concerning the GitBook format and toolchain
 
+- [GitBook Plugins](https://plugins.gitbook.com/browse)
+
+> A GitBook plugin is a node package published on NPM that follow a defined convention.
+
 ## questions
 
 - [Can I use a custom domain for my book?](https://help.gitbook.com/books/can-i-use-custom-domain.html)
@@ -33,3 +37,9 @@ https://www.gitbook.com
 - [How can I integrate dynamic content (such as video)?](https://help.gitbook.com/content/how-can-i-include-dynamic.html)
 
 - [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
+
+## search engine in books
+
+[Search content in your book](https://github.com/GitbookIO/plugin-search)
+
+[Power search using Algolia](https://github.com/GitbookIO/plugin-algolia)
