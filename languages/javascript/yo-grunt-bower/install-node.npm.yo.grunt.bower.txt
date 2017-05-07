@@ -1,9 +1,0 @@
-
-install tools
-# npm install -g yo grunt-cli bower
-
-install generator-angular-fullstack
-$ npm install generator-angular-fullstack
-
-https://npmjs.org/package/generator-angular-fullstack
-http://tylerhenkel.com/creating-apps-with-angular-and-node-using-yeoman/
